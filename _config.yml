@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Columbia Medicine Microscopy Core (MMC)
+email: WHERE__richard@university.edu
+description: NONE
 # baseurl: https://JWM-CU.github.io/JWM-CU.github.io/
 baseurl: ""
 url: ""
@@ -17,7 +17,7 @@ affiliation: >
   John W Murray, PhD<br/>
   Assistant Professor<br/>
   Imaging Facility Director<br/>
-  Deptartment of Medicine<br/>
+  Department of Medicine<br/>
   Columbia Center for Human Development (CCHD)<br/>
 
 location: >
