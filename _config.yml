@@ -2,10 +2,11 @@
 title: Columbia Medicine Microscopy Core (MMC)
 email: WHERE__richard@university.edu
 description: NONE
-# baseurl: https://JWM-CU.github.io/JWM-CU.github.io/
-baseurl: ""
-url: ""
-# url: JWM-CU.github.io
+# url: ""
+# baseurl: ""
+url: "https://JWM-CU.github.io/mmc3"
+baseurl: "/mmc3""
+
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
