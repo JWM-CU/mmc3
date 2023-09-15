@@ -1,21 +1,33 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Medicine Microscopy Core (MMC)
+  photo: Imagej2.png
+  info: Director, John Murray, PhD
+
+# JM added. why is it indented?
+# researchgate: https://www.researchgate.net/
+  mmc_link: https://cumc.corefacilities.org/sc/5931/the_medicine_microscopy_core_mmc/
+
+
+
+
+  # Bellow are buttons that I don't want
+  # email: richard@university.edu
+  # github: https://github.com/
+  # researchgate: https://www.researchgate.net/
+  # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  # cv: cv/cv.pdf
+  
+  # Below is Education stuff
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  # number_educ: 2
+  # education1: "(1942) Ph.D. Physics, Princeton University"
+  # education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  # education1short: (1942) Ph.D. Physics, Princeton
+  # education2short: (1939) B.S. Physics, MIT
   # education3short: 
   # education4short: 
   # education5short: 
