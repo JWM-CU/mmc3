@@ -5,20 +5,28 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+### MMC Instruments
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
 
+* DMi 1, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+
+* DMi 2, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+
+* Light Sheet Microscope (Leica SP8-DLS)
+
+* Zeiss LSM 710 Confocal. 6 laser lines, 3 detectors.
+
+* Leica Stellaris 8 Confocal. Multi-channel White Light Laser to 800 nm, Lightning Deconvolution, Fluorescence Lifetime imaging. Temperature and CO2 control for live imaging.
+
+<br/>
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
+Black Building, room 828. Primary imaging room <br/>
+<!-- Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+-->
 </center>
 </div>
 </div>
@@ -26,8 +34,8 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt tempora nihil, adipisci sequi esse iste nemo odit impedit sunt cupiditate, sapiente optio fugiat nulla placeat veniam voluptatem eligendi atque facilis.</<p>Aliquam libero reprehenderit alias quaerat incidunt doloribus cupiditate placeat tempora sed, iure nesciunt eaque in nemo fuga natus doloremque fugiat magni consequatur animi quae debitis numquam. Explicabo maxime nesciunt cupiditate.</p>
+<p>Expedita consequatur ullam soluta distinctio magni enim. Voluptates, obcaecati. Consectetur hic possimus dignissimos iste est rerum deleniti labore maxime numquam commodi beatae, cupiditate praesentium quis repudiandae! Illum soluta porro error!</p>
+
+
 

@@ -1,12 +1,15 @@
 ---
-title: "About"
+title: "zeiss710"
 layout: gridlay
 sitemap: false
-permalink: /about/
+permalink: /zeiss710/
 ---
 
-## About 
+## Zeiss 710 Information
+<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
 
+<!--
 {% for member in site.data.pi %}
 <div class="jumbotron">
 <div class="row">
@@ -21,8 +24,6 @@ permalink: /about/
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
-  {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank"> MMC core link </a> {% endif %}
-
 
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
@@ -59,6 +60,7 @@ permalink: /about/
   <li> {{ member.education6 | replace: "-","&#8211;"}} </li>
   {% endif %}
   </ul>
+  
 </div>
 </div>
 </div>
@@ -74,6 +76,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+
 
 {% if site.data.awards %}
 <div class="jumbotron">
@@ -97,8 +100,11 @@ permalink: /about/
 </div>
 {% endif %}
 
+-->
+
+
 <div class="jumbotron">
-  <h4>Sponsors</h4>
+  <h4>LINKS</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
