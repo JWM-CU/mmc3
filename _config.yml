@@ -1,6 +1,6 @@
 # Site settings
 title: Columbia Medicine Microscopy Core (MMC)
-email: WHERE__richard@university.edu
+email: jwm2175@cumc.columbia.edu
 description: NONE
 url: "https://JWM-CU.github.io"
 baseurl: "/mmc3"
@@ -14,16 +14,18 @@ baseurl: "/mmc3"
 
 # Footer info
 affiliation: >
+  Imaging Facility Director<br/>
   John W Murray, PhD<br/>
   Assistant Professor<br/>
-  Imaging Facility Director<br/>
-  Department of Medicine<br/>
+  Columbia University, Department of Medicine<br/>
   Columbia Center for Human Development (CCHD)<br/>
 
 location: >
-  650 West 168th Street, <br/>
-  William Black Building, 8th Floor, 801F<br/>
-  New York, NY 10032
+  Microscopes:<br/>
+  William Black Building, 8th Floor, room 828 and 832<br/>
+  Office: room 801<br/>
+  650 West 168th Street<br/>
+  New York, NY 10032<br/>
 
 contact: >
    jwm2175@cumc.columbia.edu

@@ -1,6 +1,38 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: 2023-06-30
+  headline: >
+    ALEXA 790 FLUORESCENT ANTIBODIES AVAILABLE.
+    I've recently purchased NIR antibodies that you can use.
+    These image nicely on the Stellaris confocal and can allow 6 or more fluorescent channels.
+    We have D x Mouse, and G x Rabbit, we should have D x Rabbit soon.
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: 2023-04-24
+  headline: >
+    DISSECTION MICROSCOPE has a reoccurring issue where 
+    LASX fails to run and gives error message, 
+    "Error creating Hardware Server communication connection". 
+    I now believe this is due to lose input cables at the back of the instrument. 
+    Please contact me if you get this error.
+
+- date: 2023-03-27
+  headline: >
+    ZEISS 710 Confocal. The system is being upgraded to Windows 10 today. 
+    This long-standing issue is finally being addressed. Carl from Zeiss is 
+    installing a new computer and setting up all the confocal devices in this
+    new computer. The old computer will contain any previous FILES of yours, 
+    and I will ask CUMC IT to place these on an external hard drive for access.
+    IT should also be able to setup the CUMC domain logins today. So we plan 
+    to have it operational by tomorrow.
+
+- date: 2023-03-15
+  headline: >
+    ZEISS LSM 710 CONFOCAL. The 405nm laser was replaced and the settings have 
+    now been adjusted in a remote session. It is now working well in tests. If 
+    you have any issues, please contact me and I can help with settings.
+
+- date: 2023-03-14
+  headline: >
+    Room 828. The cooling system has been repaired in our main imaging room. 
+    It now seems to be working and is significantly cooler. Please contact me 
+    if you notice issues with the cooling system..
+
 
