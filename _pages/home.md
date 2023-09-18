@@ -6,16 +6,18 @@ permalink: /
 ---
 
 
-### MMC Instruments
+### MMC Instruments <br/>
 
-#### **DMi 1**, Leica DMi8 inverted fluorescence microscope
+##### **DMi 1** Leica DMi8 inverted fluorescence microscope
 
 - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
-- 2.5x, 5X, 20X, 40x, 100X objective lenses.  
+- 2.5x, 5X, 10x, 20X, 40x, 100X objective lenses.  
 
-> DMi 2, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+##### **DMi 2** Leica DMi8 inverted fluorescence microscope
    
-    - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
+- Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
+- 10X, 20X, 20X long distance\*, 40x, 40X long distance\*, 100X objective lenses.  
+###### *\ image through tissue culture plates
 
 > Light Sheet and Confocal Microscope (Leica SP8-DLS)
     
