@@ -6,7 +6,8 @@ permalink: /
 ---
 
 
-### MMC Instruments <br/>
+### MMC Instruments
+
 
 ##### **DMi 1** Leica DMi8 inverted fluorescence microscope
 
@@ -16,25 +17,24 @@ permalink: /
 ##### **DMi 2** Leica DMi8 inverted fluorescence microscope
    
 - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
-- 10X, 20X, 20X long distance\*, 40x, 40X long distance\*, 100X objective lenses.  
-###### *\ image through tissue culture plates
+- 10X, 20X, 20X (thru plastic), 40x, 40X (thru plastic), 100X objective lenses.  
 
-> Light Sheet and Confocal Microscope (Leica SP8-DLS)
+##### **Light Sheet and Confocal** Microscope (Leica SP8-DLS)
     
-    - 4 Laser confocal, 4 detectors. 
-    - Great for tissue scanning, high resolution confocal imaging.
-    - Whole mount Light Sheet Imaging: super fast, non photobleaching 3D scanning of whole mounted tissues or organoids.
+- 4 Laser confocal, 4 detectors. 
+- Great for tissue scanning, high resolution confocal imaging.
+- Whole mount Light Sheet Imaging: super fast, non photobleaching 3D scanning of whole mounted tissues or organoids.
 
-> Zeiss LSM 710 Confocal. 
+##### **Zeiss LSM 710** Confocal. 
     
-    - 6 laser line confcoal, 3 detectors.
-    - Great for tissue scanning, high resolution confocal imaging.
+- 6 laser line confcoal, 3 detectors.
+- Great for tissue scanning, high resolution confocal imaging.
 
-> Leica Stellaris 8 Confocal. 
+##### **Leica Stellaris 8** Confocal. 
     
-    - White light laser: can set laser and detectors to any wavelength between 440 and 800 nm.
-    - Great for Multiplex imaging. Lightning Deconvolution, Fluorescence Lifetime imaging. 
-    - Live Cell imaging with Temperature and CO2 control. 
+- White light laser: can set laser and detectors to any wavelength between 440 and 800 nm.
+- Great for Multiplex imaging. Lightning Deconvolution, Fluorescence Lifetime imaging. 
+- Live Cell imaging with Temperature and CO2 control. 
 
 <br/>
 <div class="container">
