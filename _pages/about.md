@@ -27,7 +27,7 @@ permalink: /about/
 -->
 
   {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations and Info </a> {% endif %}
-  <p>Contact: jwm2175@cumc.columbia.edu</p>
+  Contact: jwm2175@cumc.columbia.edu
 
   <p> The Medicine Microscopy Core (MMC) has been established to provide user-friendly, cutting-edge microscopy technology for the Columbia Medical Center in Mpper Manhattan. We also provide access to image analysis tools, such as Leica Aivia 3D machine learning software, and use of an Acquifer HIVE computer server and workstation. We collaborate with many labories and provide custom image analysis scripting and advice for specialize image aquistion setup.</p>
   <p> Location: <br/> 
