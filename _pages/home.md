@@ -8,8 +8,8 @@ permalink: /
 
 ### MMC Instruments  
 
-
-
+<br/>
+<br/>
 
 ##### '**DMi station 1**' Leica DMi8 inverted fluorescence microscope
 
