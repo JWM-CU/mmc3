@@ -2,9 +2,9 @@
 title: Columbia Medicine Microscopy Core (MMC)
 email: jwm2175@cumc.columbia.edu
 description: NONE
-url: "https://JWM-CU.github.io"
-baseurl: "/mmc3"
-# url: ""
+url: "https://www.columbia-mmc.org"
+# baseurl: "/mmc3"
+url: ""
 # baseurl: ""
 
 # Google analytics ID: Uncomment and your own, if you like
