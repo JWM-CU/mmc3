@@ -9,7 +9,7 @@ permalink: /
 
 
 * DMi 1, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
-    - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
+    Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
 
 > DMi 2, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
    
