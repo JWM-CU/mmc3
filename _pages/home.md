@@ -8,23 +8,37 @@ permalink: /
 ### MMC Instruments
 
 
-* DMi 1, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+> DMi 1, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+    
+    - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
 
-* DMi 2, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+> DMi 2, Leica DMi8 inverted fluorescence tissue scanning / deconvolution microscope
+   
+    - Great for Tissue scanning, 4 fluorescence channels. Fast acquisition. 
 
-* Light Sheet Microscope (Leica SP8-DLS)
+> Light Sheet and Confocal Microscope (Leica SP8-DLS)
+    
+    - 4 Laser confocal, 4 detectors. 
+    - Great for tissue scanning, high resolution confocal imaging.
+    - Whole mount Light Sheet Imaging: super fast, non photobleaching 3D scanning of whole mounted tissues or organoids.
 
-* Zeiss LSM 710 Confocal. 6 laser lines, 3 detectors.
+> Zeiss LSM 710 Confocal. 
+    
+    - 6 laser line confcoal, 3 detectors.
+    - Great for tissue scanning, high resolution confocal imaging.
 
-* Leica Stellaris 8 Confocal. Multi-channel White Light Laser to 800 nm, Lightning Deconvolution, Fluorescence Lifetime imaging. Temperature and CO2 control for live imaging.
+> Leica Stellaris 8 Confocal. 
+    
+    - White light laser: can set laser and detectors to any wavelength between 440 and 800 nm.
+    - Great for Multiplex imaging. Lightning Deconvolution, Fluorescence Lifetime imaging. 
+    - Live Cell imaging with Temperature and CO2 control. 
 
 <br/>
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
-Black Building, room 828. Primary imaging room <br/>
+Primary imaging room. Black Building, room 828.  <br/>
 <!-- Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 -->
 </center>
@@ -32,10 +46,15 @@ Black Building, room 828. Primary imaging room <br/>
 </div>
 <br/>
 
-### About me
+### Overview of Services
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt tempora nihil, adipisci sequi esse iste nemo odit impedit sunt cupiditate, sapiente optio fugiat nulla placeat veniam voluptatem eligendi atque facilis.</<p>Aliquam libero reprehenderit alias quaerat incidunt doloribus cupiditate placeat tempora sed, iure nesciunt eaque in nemo fuga natus doloremque fugiat magni consequatur animi quae debitis numquam. Explicabo maxime nesciunt cupiditate.</p>
-<p>Expedita consequatur ullam soluta distinctio magni enim. Voluptates, obcaecati. Consectetur hic possimus dignissimos iste est rerum deleniti labore maxime numquam commodi beatae, cupiditate praesentium quis repudiandae! Illum soluta porro error!</p>
+<p> 
+The Medicine Microscopy Core (MMC) has been established to provide user-friendly yet highly advanced platforms for the acquisition and analysis of light microscopy data. The core provides training, maintenance, and access to state-of-the-art confocal microscopes including a Leica Stellaris 8, a Leica SP8-DLSM light sheet, and a Zeiss LSM710, as well as 2 wide field tissue scanning fluorescence microscopes, 1 live cell imaging microscope, and a fluorescence dissecting microscope. We provide tools for image analysis, such as Leica Aivia 3D machine learning software, and access to an Acquifer HIVE computer server and workstation that can manage large image data sets. The core helps users develop image analysis pipelines, custom computer scripts, and provides imaging expertise and project consultation on a collaborative basis.<br/>
+
+Hours
+24/7
+Staffed Monday - Friday 9AM - 5PM 
+</p>
 
 
 
