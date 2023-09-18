@@ -24,12 +24,14 @@ permalink: /about/
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
   {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank"> MMC core link </a> {% endif %}
-  -->
+-->
 
   {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations and Info </a> {% endif %}
   <p>Contact: jwm2175@cumc.columbia.edu</p>
 
   <p> The Medicine Microscopy Core (MMC) has been established to provide user-friendly, cutting-edge microscopy technology for the Columbia Medical Center in Mpper Manhattan. We also provide access to image analysis tools, such as Leica Aivia 3D machine learning software, and use of an Acquifer HIVE computer server and workstation. We collaborate with many labories and provide custom image analysis scripting and advice for specialize image aquistion setup.</p>
+  <p> Location: William Black Building - Columbia University Irving Medical Center <br/>
+   Columbia 650 West 168th Street, New York, NY 10032 <br/>
 
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.3719588504864!2d-73.94455972401396!3d40.841756671374405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f69bf55e6827%3A0xb113c32a9a36d9a6!2sWilliam%20Black%20Building%20-%20Columbia%20University%20Irving%20Medical%20Center!5e0!3m2!1sen!2sus!4v1695068779776!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
