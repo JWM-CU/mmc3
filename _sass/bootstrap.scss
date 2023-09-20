@@ -70,9 +70,16 @@
 /* styles.css jmw 4PM*/
 
 .custom-news-font {
- font-size: 2rem; /* Adjust the font size as needed */
- // color: #333; /* Adjust the text color as needed */
-  /* Add any other desired styles here */
+  font-size: 0.5rem; /* Adjust the font size as needed */
+
+}
+
+.jumbotron-sm {
+  font-size: 0.5rem; /* Adjust the font size as needed */
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #303030;
+  border-radius: 0.3rem;
 }
 
 .larger-link {
