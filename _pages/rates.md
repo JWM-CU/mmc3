@@ -2,7 +2,7 @@
 title: "Rates"
 layout: gridlay
 sitemap: false
-permalink: /zeiss710/
+permalink: /rates/
 ---
 
 ## Zeiss 710 Information

@@ -2,7 +2,7 @@
 title: "Stellaris"
 layout: gridlay
 sitemap: false
-permalink: /Stellaris/
+permalink: /stellaris/
 ---
 
 ## Stellaris Information
