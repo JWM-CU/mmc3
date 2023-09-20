@@ -34,12 +34,12 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: About
-  - name: Stellaris
-  - name: Zeiss710
-  - name: LightSheet
-  - name: DMi-1-2
-  - name: Rates
+  - name: about
+  - name: stellaris
+  - name: zeiss710
+  - name: lightSheet
+  - name: dmi-1-2
+  - name: rates
   - name: software
   - name: publications
 
