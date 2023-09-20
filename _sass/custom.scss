@@ -1,0 +1,66 @@
+
+body {
+    background-image: url('/images/background-lung-m80.jpg');
+ //   opacity: 0.9;
+  }
+
+
+
+/* Override Bootstrap's .container-fluid class to make it full-width 
+body .full-width-container {
+    width: 100%;
+  }
+
+
+/* over ride more stuff 
+  #container .container-fluid {
+    max-width: none; /* Remove the max-width restriction 
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+/* custom.scss 
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+#homeid {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+
+.background-text {
+    background-image: url('/images/background-lung.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    height: 100vh; /* Extend to the full viewport height 
+    margin: 0; /* Remove margin to ensure full-width background 
+    padding: 0; /* Remove padding as well 
+  }
+  
+
+
+  .background-text h1,
+  .background-text p {
+    /* color: #fff; /* Set text color to contrast with the background 
+   /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Add text shadow for readability 
+  }
+  
+  /* URL to the image 
+.image-container {
+    background-image: url('/images/background-lung.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* Additional styles for the image container, if needed 
+  }
+
+
+  /* Apply white text color to specific elements */
+.background-text h1,
+.background-text p {
+    color: white;
+}

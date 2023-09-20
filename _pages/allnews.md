@@ -7,7 +7,7 @@ permalink: /allnews.html
 
 ## News
 
-<div class="jumbotron">
+<div class="jumbotron custom-news-font">
 {% for article in site.data.news %}
 <b>{{ article.date }}</b>
 

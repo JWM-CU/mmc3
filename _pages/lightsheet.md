@@ -6,8 +6,8 @@ permalink: /lightsheet/
 ---
 
 ## Light Sheet(dls) Information
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/dls-sys.jpg" width="60%"/><br/><br/>
+
 
 <!--
 {% for member in site.data.pi %}

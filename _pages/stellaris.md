@@ -6,8 +6,8 @@ permalink: /stellaris/
 ---
 
 ## Stellaris Information
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/><br/><br/>
+
 
 <!--
 {% for member in site.data.pi %}
