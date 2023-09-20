@@ -1,5 +1,5 @@
 ---
-title: "dmi-1-2"
+title: "Dmi-1-2"
 layout: gridlay
 sitemap: false
 permalink: /dmi-1-2/

@@ -1,5 +1,5 @@
 ---
-title: "zeiss710"
+title: "Zeiss710"
 layout: gridlay
 sitemap: false
 permalink: /zeiss710/

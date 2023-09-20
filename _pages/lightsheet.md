@@ -1,5 +1,5 @@
 ---
-title: "lightsheet"
+title: "Lightsheet"
 layout: gridlay
 sitemap: false
 permalink: /lightsheet/
