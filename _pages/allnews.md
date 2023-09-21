@@ -2,16 +2,18 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews.html/
 ---
 
 ## News
 
+<!-- <div class="jumbotron"> -->
 <!-- <div class="jumbotron custom-news-font"> -->
-<div class="jumbotron-sm">
-  {% for article in site.data.news %} 
-<b>{{ article.date }}</b>
+<!-- <div class="jumbotron-sm"> -->
+<div>
+{% for article in site.data.news %} 
+    <b>{{ article.date }}</b>
 
-{{ article.headline }}
+    {{ article.headline }}
 {% endfor %}
 </div>

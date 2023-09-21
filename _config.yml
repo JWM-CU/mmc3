@@ -14,18 +14,20 @@ baseurl: ""
 
 # Footer info
 affiliation: >
-  Imaging Facility Director<br/>
-  John W Murray, PhD<br/>
-  Assistant Professor<br/>
-  Columbia University, Department of Medicine<br/>
+  Imaging Facility Director <br/>
+  John W Murray, PhD <br/>
+  Assistant Professor <br/>
+  Columbia University Department of Medicine <br/>
   Columbia Center for Human Development (CCHD)<br/>
 
 location: >
-  Microscopes:<br/>
-  William Black Building, 8th Floor, room 828 and 832<br/>
-  Office: room 801<br/>
-  650 West 168th Street<br/>
-  New York, NY 10032<br/>
+  <p>
+  William Black Building 8th Floor <br/> 
+  Room 828 and 832 <br/>
+  Office: room 801 <br/>
+  650 West 168th Street <br/>
+  New York, NY 10032 <br/>
+  </p>
 
 contact: >
    jwm2175@cumc.columbia.edu
@@ -66,12 +68,11 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-
 plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
+  last_name: Doeds
   first_name: [John]
 
   style: citesty

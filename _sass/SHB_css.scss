@@ -7,7 +7,17 @@ img {
     padding-bottom:7px; 
     margin-top:22px; 
     margin-bottom:22px;
+    font-size: 0.9rem; /* Adjust the font size as needed  added important tag*/
 }
+
+.jumbotron-sm {
+  font-size: 0.5rem; /* Adjust the font size as needed  added important tag*/
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #303030;
+  border-radius: 0.3rem;
+}
+
 
 .navbar {
   margin-bottom: 20px;
