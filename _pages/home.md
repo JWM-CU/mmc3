@@ -26,6 +26,11 @@ permalink: /
 -->
 
 <br/>
+### Overview of Services
+
+<p>The Medicine Microscopy Core (MMC) provides a user-friendly, cutting-edge fluorescence microscopy imaging environment for the Columbia Medical Center in Upper Manhattan. We also provide image analysis tools, such as Leica Aivia 3D machine learning software and an Acquifer HIVE computer server and workstation. We are happy to collaborate with your imaging and image analysis projects and can provide software, custom scripting, and custom acquistion pipelines.</p> <br/>
+
+<br/>
 <div class="container">
 <div class="row">
 <center>
@@ -37,17 +42,10 @@ Primary imaging room. Black Building, room 828.  <br/>
 </div>
 <br/>
 
-### Overview of Services
+<p>Click on the tabs above to explore the microscopes.</p>
 
-<p>The Medicine Microscopy Core (MMC) provides user-friendly, cutting-edge imaging environment for the Columbia Medical Center in Upper Manhattan. We also provide image analysis tools, such as Leica Aivia 3D machine learning software, and an Acquifer HIVE computer server and workstation. We invite custom image analysis colaborations including computer scripting and advice about image aquistion.</p> <br/>
-
-
-<p>Click on tabs above to explore microscopes.</p>
-
-<p>Hours <br/>
-24/7 <br/>
-Staffed <br/>
-Monday - Friday 9AM - 5PM 
+<p>Hours: 24/7 <br/>
+Staffed: Monday - Friday 9AM - 5PM 
 </p>
 
 <!-- </div> -->
