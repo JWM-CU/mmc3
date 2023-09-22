@@ -1,13 +1,11 @@
 - name: Medicine Microscopy Core (MMC)
   photo: Imagej2.png
   info: Director, John Murray, PhD
+  mmc_link: https://cumc.corefacilities.org/sc/5931/the_medicine_microscopy_core_mmc/
 
 # JM added. why is it indented?
 # researchgate: https://www.researchgate.net/
-  mmc_link: https://cumc.corefacilities.org/sc/5931/the_medicine_microscopy_core_mmc/
-
-
-
+  
 
   # Bellow are buttons that I don't want
   # email: richard@university.edu

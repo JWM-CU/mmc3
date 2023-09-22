@@ -5,8 +5,24 @@ sitemap: false
 permalink: /stellaris/
 ---
 
-## Stellaris Information
-<img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/><br/><br/>
+## Stellaris 8 Information
+<br/>
+* Leica confocal with fast laser scanning, Las X navigator, and 5 utra-sensitive HyD detectors.
+
+* Mutiplex imaging with tunable White Light Laser (WLL) and tunable detectors. Choose any number of laser lines, any wavelengths to 790nm. We typically use up to **6 fluorescence channels**, potential for 8 or more.
+
+* Lightning near super resolution deconvolution.
+
+* TauSense easy to use fluorescence lifetime imaging : reduce background and detect different fluors based on their fluorescence lifetime.  
+
+* Temperature and CO2 control for live imaging.
+
+* Objective lenses: 10X, 20X, 25X immersion 0.95NA, 40X Oil 1.4NA, 63x Oil 1.4NA
+
+<br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/>
+
+Layout of the Stellaris 8 system, room 828.
 
 
 <!--
@@ -32,32 +48,6 @@ permalink: /stellaris/
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
   <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education6 | replace: "-","&#8211;"}} </li>
   {% endif %}
   </ul>
   
@@ -102,10 +92,12 @@ permalink: /stellaris/
 
 -->
 
-
-<div class="jumbotron">
-  <h4>LINKS</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+<div class="jumbotron-clear">
+<h4>LINKS</h4> 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.stel-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
 </div>
+</div>
+
+
+<!-- </div> -->

@@ -30,7 +30,7 @@ permalink: /
 
 <p>The Medicine Microscopy Core (MMC) provides a user-friendly, cutting-edge fluorescence microscopy imaging environment for the Columbia Medical Center in Upper Manhattan. We also provide image analysis tools, such as Leica Aivia 3D machine learning software and an Acquifer HIVE computer server and workstation. We are happy to collaborate with your imaging and image analysis projects and can provide software, custom scripting, and custom acquistion pipelines.</p> <br/>
 
-<br/>
+
 <div class="container">
 <div class="row">
 <center>

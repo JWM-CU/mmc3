@@ -5,9 +5,63 @@ sitemap: false
 permalink: /rates/
 ---
 
-## Zeiss 710 Information
+## Rates
+
+<br/>
+
+| Instrument, Service | Hourly Rate |
+| -------- | -------- |
+| Zeiss LSM 710 Confocal Microscope | $47.25  |
+| Leica Stellaris 8 Confocal Microscope | $54.00 | 
+| Light Sheet Microscope (Leica SP8-DLS & Confocal) | $33.75 | 
+| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $36.45 | 
+| Training (All Instruments) | $80.00 | 
+
+<br/>
+<br/>
+
+| Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
+| -------- | -------- | -------- |
+| Zeiss LSM 710 Confocal Microscope | $35.44   | 
+| Leica Stellaris 8 Confocal Microscope | $40.50 | 
+| Light Sheet Microscope (Leica SP8-DLS & Confocal) | $25.31 | 
+| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $27.34 | 
+
+<br/>
+<br/>
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 6px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #8b6e00;
+  }
+
+
+
+  th {
+    background-color: #333;
+    color: #FFA500;
+  }
+</style>
+
+
+
+
+<!--
 <img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
+
+-->
 
 <!--
 {% for member in site.data.pi %}

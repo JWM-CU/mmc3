@@ -10,10 +10,11 @@ permalink: /allnews.html/
 <!-- <div class="jumbotron"> -->
 <!-- <div class="jumbotron custom-news-font"> -->
 <!-- <div class="jumbotron-sm"> -->
-<div>
+<!-- <div> -->
+<div class="jumbotron">
 {% for article in site.data.news %} 
-    <b>{{ article.date }}</b>
+<b>{{ article.date }}</b>
 
-    {{ article.headline }}
+{{ article.headline }}
 {% endfor %}
 </div>

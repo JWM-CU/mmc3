@@ -6,8 +6,23 @@ permalink: /zeiss710/
 ---
 
 ## Zeiss 710 Information
+
+* Zeiss LSM 710 confocal with Zen Black Software, 6 laser lines, 3 detectors.
+
+* Mutiplex imaging with 6 laser lines at 405, 458, 488, 514, 561, 633 nm. 
+
+* Excellent Zeiss optics.
+
+* Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.
+
+<br/>
+
+
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/zeiss710-sys.jpg" width="60%"/><br/><br/>
 
+Layout of the Zeiss 710 system, room 828.
 
 <!--
 {% for member in site.data.pi %}
@@ -32,32 +47,6 @@ permalink: /zeiss710/
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
   <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education6 | replace: "-","&#8211;"}} </li>
   {% endif %}
   </ul>
   
@@ -102,10 +91,10 @@ permalink: /zeiss710/
 
 -->
 
-
-<div class="jumbotron">
-  <h4>LINKS</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+<div class="jumbotron-clear">
+<h4>LINKS</h4> 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.z710-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
 </div>
+</div>
+

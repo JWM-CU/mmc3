@@ -2,13 +2,25 @@ img {
     border-radius:5%;
 }
 
+
+
+
 .jumbotron {
     padding:20px; 
     padding-bottom:7px; 
     margin-top:22px; 
     margin-bottom:22px;
-    font-size: 0.9rem; /* Adjust the font size as needed  added important tag*/
+    font-size: 0.8rem; /* Adjust the font size as needed  added important tag*/
 }
+
+.jumbotron-thin {
+  padding:20px; 
+  padding-bottom:7px; 
+  margin-top:22px; 
+  margin-bottom:22px;
+  // font-size: 0.8rem; /* Adjust the font size as needed  added important tag*/
+}
+
 
 .jumbotron-sm {
   font-size: 0.5rem; /* Adjust the font size as needed  added important tag*/
@@ -37,8 +49,8 @@ img {
   margin-right: auto;
   margin-left: auto;
   max-width: 800px;
-  padding-left:  20px;
-  padding-right: 20px;
+  padding-left:  -15px;
+  padding-right: -15px;
 }
 
 .well-collapse {

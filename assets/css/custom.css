@@ -4,6 +4,31 @@
   
   }
 
+  .jumbotron-clear {
+    padding: 0;               // Removes padding
+    margin-bottom: 0;        // Removes bottom margin
+    background-color: transparent;
+    border-radius: 0.1rem;
+    font-size: 0.1rem;
+}
+
+
+  .jumbotron-thin {
+    padding: 0.1rem 0.1rem;
+    margin-bottom: 0.1rem;
+    background-color: #303030;
+    border-radius: 0.1rem;
+    font-size: 0.1rem; /* Adjust the font size as needed  added important tag */
+  }
+
+  /*
+  .jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #303030;
+  border-radius: 0.3rem;
+}
+*/
 .jumbotron-sm {
     font-size: 0.5rem; /* Adjust the font size as needed  added important tag*/
     padding: 2rem 1rem;
