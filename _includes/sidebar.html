@@ -2,10 +2,11 @@
 {% for member in site.data.pi %}
   <div class="jumbotron">
     <center>
-    <a href="{{site.url}}{{site.baseurl}}/About"><img src="{{site.url}}{{site.baseurl}}/images/{{ member.photo }}" width="60%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
+    <a href="{{site.url}}{{site.baseurl}}/About"><img src="{{site.url}}{{site.baseurl}}/images/{{ member.photo }}" width="60%" 
+      style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
     <h5>{{ member.name }}</h5>
     {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations and Info </a> {% endif %}
-    <p>Contact: jwm2175@cumc.columbia.edu</p>
+    <p style="font-size: 18px;">Contact: jwm2175@cumc.columbia.edu</p>
 
     <!--
     <div style="margin-bottom:5px">
@@ -15,8 +16,9 @@
     {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
     {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
     -->
-    </center>
+   <!--  </center> -->
   </div>
+  
  
 <!--
   <ul style="overflow: hidden">
