@@ -1,5 +1,6 @@
 # Site settings
 title: Columbia Medicine Microscopy Core (MMC)
+subtitle: (MMC)
 email: jwm2175@cumc.columbia.edu
 description: NONE
 url: "https://www.columbia-mmc.org"
@@ -28,6 +29,10 @@ location: >
   650 West 168th Street <br/>
   New York, NY 10032 <br/>
 
+hours: >
+  Hours: 24/7 <br/>
+  Staffed: M-F, 9am-5pm <br/>
+
 contact: >
    jwm2175@cumc.columbia.edu
     <!-- <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
@@ -42,7 +47,7 @@ nav_pages:
   - name: dmi-1-2
   - name: rates
   - name: software
-  - name: publications
+#  - name: publications
 
 include:
   - .htaccess

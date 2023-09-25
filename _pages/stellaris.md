@@ -5,8 +5,9 @@ sitemap: false
 permalink: /stellaris/
 ---
 
+<div class="jumbotron" style="font-size:20px;">  
 ## Stellaris 8 Information
-<br/>
+
 * Leica confocal with fast laser scanning, Las X navigator, and 5 utra-sensitive HyD detectors.
 
 * Mutiplex imaging with tunable White Light Laser (WLL) and tunable detectors. Choose any number of laser lines, any wavelengths to 790nm. We typically use up to **6 fluorescence channels**, potential for 8 or more.
@@ -17,12 +18,18 @@ permalink: /stellaris/
 
 * Temperature and CO2 control for live imaging.
 
-* Objective lenses: 10X, 20X, 25X immersion 0.95NA, 40X Oil 1.4NA, 63x Oil 1.4NA
+* Objective lenses: 10X, 20X, 25X immersion 0.95NA, 40X Oil 1.4NA, 63x Oil 1.4NA.
+
+* Located in room 828.
+
+</div>
 
 <br/><br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/>
 
 Layout of the Stellaris 8 system, room 828.
+<br/>
+<br/>
 
 
 <!--
@@ -92,8 +99,10 @@ Layout of the Stellaris 8 system, room 828.
 
 -->
 
+<!-- <div class="jumbotron"> -->
+
 <div class="jumbotron-clear">
-<h4>LINKS</h4> 
+<h4>Links and User Guide</h4> 
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
 {% for link in site.data.stel-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
 </div>

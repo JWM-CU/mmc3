@@ -58,7 +58,7 @@ permalink: /about/
 
 <div class="jumbotron" style="width: 40%; margin-left: 0; margin-right: auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/jwm-pic.jpg" width="60%" style="max-width:200px; display: block; margin-left: auto; margin-right: auto;" />
-<h4 class="text-center">John W Murray, Core Director</h4>
+<h4 class="text-center" style="font-size:15px;">John W Murray, Core Director </h4>
 </div>
 
 

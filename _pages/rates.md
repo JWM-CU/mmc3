@@ -7,7 +7,7 @@ permalink: /rates/
 
 ## Rates
 
-<br/>
+<div class="jumbotron" style="font-size:20px;"> 
 
 | Instrument, Service | Hourly Rate |
 | -------- | -------- |
@@ -17,8 +17,12 @@ permalink: /rates/
 | Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $36.45 | 
 | Training (All Instruments) | $80.00 | 
 
+
+
 <br/>
 <br/>
+
+
 
 | Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
 | -------- | -------- | -------- |
@@ -28,7 +32,10 @@ permalink: /rates/
 | Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $27.34 | 
 
 <br/>
-<br/>
+<div>
+
+
+
 
 <style>
   table {
@@ -154,7 +161,7 @@ permalink: /rates/
 </div>
 {% endif %}
 
--->
+
 
 
 <div class="jumbotron">
@@ -163,3 +170,4 @@ permalink: /rates/
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
+-->

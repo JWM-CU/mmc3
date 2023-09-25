@@ -4,7 +4,7 @@ layout: gridlay
 sitemap: false
 permalink: /zeiss710/
 ---
-
+<div class="jumbotron" style="font-size:20px;"> 
 ## Zeiss 710 Information
 
 * Zeiss LSM 710 confocal with Zen Black Software, 6 laser lines, 3 detectors.
@@ -15,14 +15,16 @@ permalink: /zeiss710/
 
 * Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.
 
+* Located in room 828.
+</div>
 <br/>
 
-
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/zeiss710-sys.jpg" width="60%"/><br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/zeiss710-sys.jpg" width="60%"/>
 
 Layout of the Zeiss 710 system, room 828.
+<br/>
+<br/>
+
 
 <!--
 {% for member in site.data.pi %}
@@ -92,7 +94,7 @@ Layout of the Zeiss 710 system, room 828.
 -->
 
 <div class="jumbotron-clear">
-<h4>LINKS</h4> 
+<h4>Links and User Guide </h4> 
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
 {% for link in site.data.z710-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
 </div>

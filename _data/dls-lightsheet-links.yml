@@ -1,0 +1,14 @@
+
+- image: leica-svg.png
+  url: https://www.leica-microsystems.com/products/confocal-microscopes/p/leica-tcs-sp8-dls/
+- image: userguide-pdf.png
+  url: /assets/user-guides/DLS_lightsheet_guide_jwm.pdf
+- image: pdf-dls-calibrate.png
+  url: /assets/user-guides/Lightsheet_Calibration_step-by-step.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/

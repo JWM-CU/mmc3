@@ -5,9 +5,53 @@ sitemap: false
 permalink: /lightsheet/
 ---
 
-## Light Sheet(dls) Information
-<img src="{{ site.url }}{{ site.baseurl }}/images/dls-sys.jpg" width="60%"/><br/><br/>
 
+<div class="jumbotron" style="font-size:20px;"> 
+
+## Light Sheet (DLS SP8) Information. 
+* Instrument is is both a Confocal and Light Sheet microscope.
+* Located in room 828.
+</div>
+<div class="jumbotron" style="font-size:20px;"> 
+
+
+## *Confocal* mode
+
+* Leica SP8 confocal with 4 laser lines, 4 detectors.
+
+* Mutiplex imaging, laser lines at 405, 488, 552, 638 nm. 
+
+* Leica Navigator for slide scanning
+
+* Objective lenses: 1.6X, 2.5X, 10X, 20X, 40X Oil 1.3NA, 63x Oil 1.4NA.
+</div>
+
+<div class="jumbotron" style="font-size:20px;"> 
+
+## *Light Sheet* mode
+
+* Four fluorescence channel Z-scanning Light Sheet Imaging.
+  - <p>DAPI, GFP, A555, Alexa 647.</p>
+
+* Light sheet imaging allows high contrast, beautiful 3D images of whole mount preparations.<br/>
+
+* Advantages of light sheet imaging include:
+  - Very fast Z-scanning
+  - Very low photobleaching
+  - <p>Images through thick (1.5 mm) samples</p>
+
+* Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.
+</div>
+
+
+<br/>
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/dls-sys.jpg" width="60%"/><br/>
+
+Layout of the Light Sheet system, room 828.
+<br/>
+<br/>
 
 <!--
 {% for member in site.data.pi %}
@@ -103,9 +147,18 @@ permalink: /lightsheet/
 -->
 
 
-<div class="jumbotron">
-  <h4>LINKS</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+<div class="jumbotron-clear">
+<h4>*Confocal* Links and User Guide </h4> 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.dls-con-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+</div>
+</div>
+
+<br/>
+
+
+<div class="jumbotron-clear">
+<h4>*Light Sheet* Links and User Guide </h4> 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.dls-lightsheet-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
 </div>

@@ -5,7 +5,32 @@ sitemap: false
 permalink: /dmi-1-2/
 ---
 
-## DMi 1 and 2 Information
+
+<div class="jumbotron" style="font-size:20px;">  
+
+## DMi station 1 and 2 Information
+
+* Leica wide field (non-confocal) microscopes located in rooms 828 (DMi 1) 832 (DMi 2).
+
+* **Excellent for imaging whole slides or large tissue sections containing multiple fluorescence stains.**
+
+* **Excellent for checking whether your staining worked**. 
+
+* Four fluorescence channels that can image, for example, DAPI, Alexa 488, Alexa 568, Alexa 647 along with bright field.
+
+* Rapid stage scanning with Leica Navigator. Capturing to digital camera allows fast mutiplex capture of large regions of slides.
+
+* DMi station 1 has deconvolution options, post acquisition.  
+
+* Objective lenses:
+  - DMi 1: 2.5X, 5X, 10X, 20X, 40X dry 0.8NA, 100x Oil 1.4NA<br/>
+  DMi 1 has low magnification options.
+   
+  - DMi 2: 10X, 20X, 20X long distance, 40X, 40X long distance, 100X oil 1.4 NA<br/>
+  DMi 2 has long distance (image thru culture dish) options.
+
+</div>
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/dmi1-sys.jpg" width="60%"/><br/><br/>
 
 <!--
@@ -102,9 +127,9 @@ permalink: /dmi-1-2/
 -->
 
 
-<div class="jumbotron">
-  <h4>LINKS</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+<div class="jumbotron-clear">
+<h4>Links and User Guide</h4> 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.dmi-12-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+</div>
 </div>

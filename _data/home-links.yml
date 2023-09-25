@@ -1,0 +1,16 @@
+
+- image: columbia-dmed-2.png
+  url: https://www.vagelos.columbia.edu/departments-centers/department-medicine
+- image: cchd.png
+  url: https://cchd.columbiamedicine.org/
+- image: mmc-qcode.png
+  url: https://www.columbia-mmc.org/
+
+# - image: userguide-pdf.png
+#  url: /assets/user-guides/Stellaris8_guide_jwm.pdf
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/
