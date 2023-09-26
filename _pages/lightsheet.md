@@ -9,13 +9,13 @@ permalink: /lightsheet/
 <div class="jumbotron" style="font-size:20px;"> 
 
 ## Light Sheet (DLS SP8) Confocal and Light Sheet Microscope Information
-* Instrument is is both a Confocal and Light Sheet microscope.
+* Functions as both a Confocal and Light Sheet microscope.
 * Located in room 828.
 </div>
 <div class="jumbotron" style="font-size:20px;"> 
 
 
-## *Confocal* mode
+## Confocal mode
 
 * Leica SP8 confocal with 4 laser lines, 4 detectors.
 
@@ -28,17 +28,19 @@ permalink: /lightsheet/
 
 <div class="jumbotron" style="font-size:20px;"> 
 
-## *Light Sheet* mode
+## Light Sheet mode
 
-* Four fluorescence channel Z-scanning Light Sheet Imaging.
-  - <p>DAPI, GFP, A555, Alexa 647.</p>
+* Four fluorescence channel Z-scanning and imaging using a digital light sheet (DLS).
+  - <p>The channels are DAPI, GFP, Alexa 555, Alexa 647 (or equivalent)</p>
 
 * Light sheet imaging allows high contrast, beautiful 3D images of whole mount preparations.<br/>
 
 * Advantages of light sheet imaging include:
   - Very fast Z-scanning
   - Very low photobleaching
-  - <p>Images through thick (1.5 mm) samples</p>
+  - <p>Images through thick samples (milimeter range) </p>
+  - Excellent for 3 dimensional imaging of tissues that are too large or thick for confocal imaging
+  - Typically involves optical clearing 
 
 * Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.
 </div>
