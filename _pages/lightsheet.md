@@ -8,7 +8,7 @@ permalink: /lightsheet/
 
 <div class="jumbotron" style="font-size:20px;"> 
 
-## Light Sheet (DLS SP8) Information. 
+## Light Sheet (DLS SP8) Confocal and Light Sheet Microscope Information. 
 * Instrument is is both a Confocal and Light Sheet microscope.
 * Located in room 828.
 </div>

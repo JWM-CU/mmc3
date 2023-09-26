@@ -6,7 +6,7 @@ permalink: /stellaris/
 ---
 
 <div class="jumbotron" style="font-size:20px;">  
-## Stellaris 8 Information
+## Stellaris 8 Confocal Microscope Information
 
 * Leica confocal with fast laser scanning, Las X navigator, and 5 utra-sensitive HyD detectors.
 

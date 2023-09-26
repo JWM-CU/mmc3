@@ -5,7 +5,7 @@ sitemap: false
 permalink: /zeiss710/
 ---
 <div class="jumbotron" style="font-size:20px;"> 
-## Zeiss 710 Information
+## Zeiss 710 Confocal Microscope Information
 
 * Zeiss LSM 710 confocal with Zen Black Software, 6 laser lines, 3 detectors.
 

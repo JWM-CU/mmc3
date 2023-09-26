@@ -8,7 +8,7 @@ permalink: /dmi-1-2/
 
 <div class="jumbotron" style="font-size:20px;">  
 
-## DMi station 1 and 2 Information
+## DMi station 1 and 2 Wide Field Microscope Information
 
 * Leica wide field (non-confocal) microscopes located in rooms 828 (DMi 1) 832 (DMi 2).
 
