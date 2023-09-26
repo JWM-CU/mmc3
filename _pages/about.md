@@ -30,13 +30,35 @@ permalink: /about/
   <br/>
   
 
+ <!-- Creation of links using assign and liquid links e.g. {{ cchd_link.name }} --> 
+ {% assign dept_med = "Department of Medicine" %}
+ {% assign dmed_link = site.data.home-links | where: "name", dept_med | first %}
+ 
+ {% assign cchd = "Columbia Center for Human Development" %}
+ {% assign cchd_link = site.data.home-links | where: "name", cchd | first %}
+
+ {% assign csct = "Columbia Center for Stem Cell Therapies" %}
+ {% assign csct_link = site.data.home-links | where: "name", csct | first %}
+ 
+ {% assign mmc = "Columbia Medicine Microscopy Core (MMC)" %}
+ {% assign mmc_link = site.data.home-links | where: "name", mmc | first %}
+
   <p> We are located in the 
    William Black Building<br/>
    Columbia University Irving Medical Center <br/>
    Columbia 650 West 168th Street<br/> 
    New York, NY 10032 (map below)</p>
 
-  <p>The Medicine Microscopy Core (MMC) is a confocal and wide field microscopy core available by reservation through the iLab system. Training sessions are required for all instruments.  We specialize in tissue scanning and high resolution multi-channel fluorescence imaging and welcome collaborations for custom imaging and analysis.</p>
+  <p>The Medicine Microscopy Core (MMC) is a confocal and wide field microscopy core available by reservation through the iLab system. We are part of the
+  
+  <a href="{{ cchd_link.url }}" target="_blank" rel="noopener noreferrer">{{ cchd_link.name }}</a>
+
+  , the
+  <a href="{{ csct_link.url }}" target="_blank" rel="noopener noreferrer">{{ csct_link.name }}</a>
+  and also the 
+  <a href="{{ dmed_link.url }}" target="_blank" rel="noopener noreferrer">{{ dmed_link.name }}</a>
+
+ , and provide training and assitance with all instruments.  We specialize in tissue scanning and high resolution multi-channel fluorescence imaging and welcome collaborations for custom imaging and analysis.</p>
 
 
 
@@ -61,7 +83,20 @@ permalink: /about/
 <h4 class="text-center" style="font-size:15px;">John W Murray, Core Director </h4>
 </div>
 
+<div class="container">
+<div class="row">
+<center>
 
+<div class="jumbotron-clear">
+<!-- <h4>Links and User Guide</h4> -->
+<div style='display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2%;'>
+{% for link in site.data.home-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+
+</div>
+</div>
+</center>
+</div>
+</div>
 
 <!--
 {% if site.data.grants %}
