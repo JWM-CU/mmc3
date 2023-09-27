@@ -1,8 +1,8 @@
 
-- image: leica-svg.png
-  url: https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-8/
-- image: lasxnav.png
-  url: https://youtu.be/nzYSE468qNQ?si=WulJsP2QmYEwQmPt
+- image: ziess.png
+  url: /assets/user-guides/LSM-710-Brochure.pdf
+- image: zeiss-vid.png
+  url: https://www.zeiss.com/microscopy/us/local/zen-knowledge-base-home/zen-knowledge-base-zen.html
 - image: userguide-pdf.png
   url: /assets/user-guides/Zeiss710_guide_jwm.pdf
 
