@@ -23,7 +23,6 @@ permalink: /rates/
 <br/>
 
 
-
 | Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
 | -------- | -------- | -------- |
 | Zeiss LSM 710 Confocal Microscope | $35.44   | 
@@ -33,8 +32,6 @@ permalink: /rates/
 
 <br/>
 <div>
-
-
 
 
 <style>
@@ -50,14 +47,13 @@ permalink: /rates/
   }
 
   tr:nth-child(even) {
-    background-color: #8b6e00;
+  /*  background-color: #8b6e00; */
+    background-color: #FBB954; /* color of even bars */
   }
-
-
 
   th {
     background-color: #333;
-    color: #FFA500;
+    color: #FFA500; /* color of header bars text?  */
   }
 </style>
 

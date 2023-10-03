@@ -18,9 +18,19 @@
             <p style="font-size: 0.9rem;"> {{ site.hours }}</p>
 		</div>
 	  
-	</div>
+		<center>
+			<div style="margin-bottom: 10px;"> <!-- Adds some space between the links and the copyright notice -->
+				{% for link in site.data.home-links %}
+					<a href="{{ link.url }}" target="_blank">
+						<img class="no-shadow" src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 50px; max-width: 200px; margin: 0%'/>
+					</a>
+				{% endfor %}
+			</div>
+			<p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }}</p>
+		</center> 
+		
 
-      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
+      <!-- <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center> -->
 	</div>
   </div>
 </div>

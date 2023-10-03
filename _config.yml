@@ -16,18 +16,30 @@ baseurl: ""
 # Footer info
 affiliation: >
   John W Murray, PhD <br/>
-  jwm2175@cumc.columbia.edu <br/>
   Imaging Facility Director <br/>
   Assistant Professor <br/>
-  Columbia University Department of Medicine <br/>
+  Columbia University <br/> 
+  Department of Medicine <br/>
   Columbia Center for Human Development (CCHD) <br/>
+  jwm2175@cumc.columbia.edu <br/>
+  Office phone: (212)305-4130 <br/>
+
+# location: >
+#  William Black Building 8th Floor <br/> 
+#  [William Black Building 8th Floor](https://www.google.com/maps/place/https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9)  (https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9) <br/> 
+#  Room 828 and 832 <br/>
+#  Office: room 801 <br/>
+#  650 West 168th Street <br/>
+#  New York, NY 10032 <br/>
 
 location: >
-  William Black Building 8th Floor <br/> 
-  Room 828 and 832 <br/>
+  William Black Building<br/> 
+  <a href="https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9" target="_blank">(google maps link)</a> <br/> 
+  8th Floor, Room 828 and 832 <br/>
   Office: room 801 <br/>
   650 West 168th Street <br/>
   New York, NY 10032 <br/>
+
 
 hours: >
   Hours: 24/7 <br/>
@@ -35,8 +47,6 @@ hours: >
 
 contact: >
    jwm2175@cumc.columbia.edu
-    <!-- <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-    -->
 
 # Pages shown in navbar
 nav_pages:

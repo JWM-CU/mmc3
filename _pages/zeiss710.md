@@ -17,7 +17,6 @@ permalink: /zeiss710/
 
 * Located in room 828.
 </div>
-<br/>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/zeiss710-sys.jpg" width="60%"/>
 
@@ -94,9 +93,10 @@ Layout of the Zeiss 710 system, room 828.
 -->
 
 <div class="jumbotron-clear">
-<h4>Links and User Guide </h4> 
+
+#### Links and User Guide
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
-{% for link in site.data.z710-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+{% for link in site.data.z710-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
 </div>
 </div>
 

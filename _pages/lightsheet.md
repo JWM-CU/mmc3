@@ -8,9 +8,8 @@ permalink: /lightsheet/
 
 <div class="jumbotron" style="font-size:20px;"> 
 
-## Light Sheet (DLS SP8) Confocal and Light Sheet Microscope Information
+## Light Sheet (DLS SP8) Microscope Information
 * Functions as both a Confocal and Light Sheet microscope.
-* Located in room 828.
 </div>
 <div class="jumbotron" style="font-size:20px;"> 
 
@@ -43,13 +42,11 @@ permalink: /lightsheet/
   - Typically involves optical clearing 
 
 * Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.
+* Located in room 828.
 </div>
-
-
 <br/>
 
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/dls-sys.jpg" width="60%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/dls-sys.jpg" width="60%"/>
 
 Layout of the Light Sheet system, room 828.
 <br/>
@@ -150,17 +147,17 @@ Layout of the Light Sheet system, room 828.
 
 
 <div class="jumbotron-clear">
-<h4>*Confocal* Links and User Guide </h4> 
-<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
-{% for link in site.data.dls-con-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
-</div>
-</div>
 
-<br/>
+#### *Confocal* Links and User Guide 
+<div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
+{% for link in site.data.dls-con-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
+</div>
+</div>
 
 
 <div class="jumbotron-clear">
-<h4>*Light Sheet* Links and User Guide </h4> 
+
+#### *Light Sheet* Links and User Guide 
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
-{% for link in site.data.dls-lightsheet-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+{% for link in site.data.dls-lightsheet-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
 </div>

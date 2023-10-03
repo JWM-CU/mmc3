@@ -1,3 +1,10 @@
+- date: 2023-09-28
+  headline: > 
+    DLS LIGHT SHEET. The DLS Light Sheet has an new 20X dry tissue scanning lens!
+    This replaces the previous 20X immersion lens and works great
+    for confocal imaging of your samples. I have tested it for chromatic 
+    aberration and image quality and it looks excellent. Representative images are available on request.
+
 - date: 2023-06-30
   headline: >
     ALEXA 790 FLUORESCENT ANTIBODIES AVAILABLE.
@@ -5,24 +12,14 @@
     These image nicely on the Stellaris confocal and can allow 6 or more fluorescent channels.
     We have D x Mouse, and G x Rabbit, we should have D x Rabbit soon.
 
-- date: 2023-04-24
-  headline: >
-    DISSECTION MICROSCOPE has a reoccurring issue where 
-    LASX fails to run and gives error message, 
-    "Error creating Hardware Server communication connection". 
-    I now believe this is due to lose input cables at the back of the instrument. 
-    Please contact me if you get this error.
-
 - date: 2023-03-27
   headline: >
-    ZEISS 710 Confocal. The system is being upgraded to Windows 10 today. 
-    This long-standing issue is finally being addressed. Carl from Zeiss is 
-    installing a new computer and setting up all the confocal devices in this
-    new computer. The old computer will contain any previous FILES of yours, 
-    and I will ask CUMC IT to place these on an external hard drive for access.
-    IT should also be able to setup the CUMC domain logins today. So we plan 
-    to have it operational by tomorrow.
-
+    ZEISS 710 Confocal. The system has been upgraded to Windows 10. 
+    Carl Schneider from Zeiss installed a new computer and set up all the confocal devices.
+    The previous computer will contain your FILES of yours.  
+    This computer is now located in the office suite of the 8th floor and 
+    can be used for data processing and image analysis.
+  
 - date: 2023-03-15
   headline: >
     ZEISS LSM 710 CONFOCAL. The 405nm laser was replaced and the settings have 
@@ -32,7 +29,7 @@
 - date: 2023-03-14
   headline: >
     Room 828. The cooling system has been repaired in our main imaging room. 
-    It now seems to be working and is significantly cooler. Please contact me 
+    It is now working and is significantly cooler. Please contact me 
     if you notice issues with the cooling system..
 
 

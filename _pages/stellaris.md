@@ -29,7 +29,6 @@ permalink: /stellaris/
 
 Layout of the Stellaris 8 system, room 828.
 <br/>
-<br/>
 
 
 <!--
@@ -102,9 +101,10 @@ Layout of the Stellaris 8 system, room 828.
 <!-- <div class="jumbotron"> -->
 
 <div class="jumbotron-clear">
-<h4>Links and User Guide</h4> 
+
+#### Links and User Guide
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
-{% for link in site.data.stel-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+{% for link in site.data.stel-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
 </div>
 </div>
 

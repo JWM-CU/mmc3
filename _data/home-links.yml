@@ -1,19 +1,19 @@
 
-- image: columbia-dmed-2.png
+- image: columbia-dmed-long.png
   url: https://www.vagelos.columbia.edu/departments-centers/department-medicine
   name: Department of Medicine
 
-- image: cchd.png
+- image: cchd-sz.png
   url: https://cchd.columbiamedicine.org/
   name: Columbia Center for Human Development
 
-- image: csct.png
+- image: CSCT logo.jpg
   url: https://www.vagelos.columbia.edu/departments-centers/centers-and-institutes/columbia-center-stem-cell-therapies
   name: Columbia Center for Stem Cell Therapies
 
-- image: mmc-qcode.png
-  url: https://www.columbia-mmc.org/
-  name: Columbia Medicine Microscopy Core (MMC)
+# - image: mmc-qcode.png
+#  url: https://www.columbia-mmc.org/
+#  name: Columbia Medicine Microscopy Core (MMC)
 
 # - image: userguide-pdf.png
 #  url: /assets/user-guides/Stellaris8_guide_jwm.pdf

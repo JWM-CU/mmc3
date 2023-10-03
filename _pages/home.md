@@ -36,26 +36,28 @@ Click on the tabs (or icon lines) above to explore the microscopes.
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/MMC_828.jpg" width="100%"/><br/>
 Primary imaging room. Black Building, room 828.  <br/>
 <br/>
+<div>
+<div>
 
 <!-- </center> -->
-
 <!-- 
 <div class="jumbotron-clear">
 <!-- <h4>Links and User Guide</h4>
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
--->
+
 
 <div class="jumbotron-clear">
-<!-- <h4>Links and User Guide</h4> -->
-<div style='display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4%;'>
-{% for link in site.data.home-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>{% endfor %}
+    <div style='display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4%;'>
+{% for link in site.data.home-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 5%'/></a>
+{% endfor %}
+<div>
+<div>
 
-</div>
-</div>
+-->
 
-<!-- </div> -->
+
 
 
