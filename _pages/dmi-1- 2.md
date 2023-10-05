@@ -12,9 +12,9 @@ permalink: /dmi-1-2/
 
 * Leica wide field (non-confocal) microscopes located in rooms 828 (DMi 1) 832 (DMi 2).
 
-* **Excellent for imaging whole slides or large tissue sections containing multiple fluorescence stains.**
+* *Excellent for imaging whole slides or large tissue sections containing multiple fluorescence stains.*
 
-* **Excellent for checking whether your staining worked**. 
+* *Excellent for reviewing the results of your staining experiments prior to performing detailed confocal scanning.* 
 
 * Four fluorescence channels that can image, for example, DAPI, Alexa 488, Alexa 568, Alexa 647 along with bright field.
 

@@ -22,13 +22,16 @@ permalink: /stellaris/
 
 * Located in room 828.
 
+* The NIH would to acknowlege grant **NIH S10 OD032447-01** in all publications that utilize this instrument. 
+
 </div>
 
-<br/><br/>
+<br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/>
 
 Layout of the Stellaris 8 system, room 828.
 <br/>
+
 
 
 <!--
