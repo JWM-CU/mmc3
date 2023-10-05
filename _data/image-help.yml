@@ -1,0 +1,28 @@
+
+- image: image-sc.png
+  url: https://forum.image.sc/
+  description: image.sc (forum for imaging discussion)
+
+- image: fp-base.png
+  url: https://www.fpbase.org/spectra/
+  description: FPbase (fluorescence spectral viewer - fluorophore combinations)
+
+- image: leica-youtube.png
+  url: https://www.youtube.com/@LeicaMicrosystemsTutorials
+  description: Leica microscope tutorials on Youtube
+
+- image: ziess-s.png
+  url: https://www.zeiss.com/microscopy/us/local/zen-knowledge-base-home/zen-knowledge-base-zen.html
+  description: Zeiss' Zen knowledge base
+
+
+
+# - image: userguide-pdf.png
+#  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/

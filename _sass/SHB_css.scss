@@ -1,3 +1,56 @@
+
+/* JM icon */
+.icon-description {
+  font-size: 12px;
+  /* margin-top: 1px; /* image and description space */
+  /* position: absolute; */
+  /* bottom: 1px; /* Adjust this to position the text vertically as you like */
+  /* left: 50%; */
+  /* transform: translateX(-50%); /* Center the text horizontally */
+  color: #1E4F91; /* Make the text white to contrast with the image */
+  text-shadow: 1px 1px 1px rgb(24, 18, 82); /* Add a shadow for better readability */
+  width: 40%;
+  /* text-align: center; */
+  /* display: inline-block; */
+}
+
+/*JM icon image*/
+.icon-image {
+  max-height: 100px;
+  max-width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+/*JM icon cont*/
+.icon-container {
+  flex: 0 0 auto;  /* This ensures each child doesn't grow or shrink but stays at its default size */
+  text-align: center;
+  margin: 0px;
+}
+
+.software-links-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;  // This ensures items wrap to the next line if they run out of space
+}
+ 
+
+.software-links-container .icon-container, 
+.software-links-container .icon-container * {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+
+/* JM added to line break with iphones */
+@media (max-width: 768px) {
+  .navbar-brand {
+    white-space: normal; /* Allow wrapping for the title */
+  }
+}
+
 /* shadow for all images */
 img {
   box-shadow: 6px 6px 15px rgba(48, 82, 167, 0.225);

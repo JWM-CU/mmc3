@@ -1,0 +1,22 @@
+
+- image: imagej2_clear_sz.png
+  url: https://imagej.net/software/fiji/downloads
+  description: Fiji (Imagej version that includes many plugins)
+
+- image: qupath.png
+  url: https://qupath.readthedocs.io/en/stable/docs/intro/installation.html
+  description: QuPath (for large images and histology images)
+
+- image: cellpose-c.png
+  url: https://github.com/MouseLand/cellpose
+  description: CellPose (for automated image segmentation)
+
+# - image: userguide-pdf.png
+#  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/

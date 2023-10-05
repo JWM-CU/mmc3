@@ -1,0 +1,23 @@
+
+- image: lasx.png
+  url: https://www.leica-microsystems.com/products/microscope-software/p/leica-las-x-ls/downloads/
+  description: Leica LASX office download (PC only, not Mac)
+
+- image: zen-blue.png
+  url: https://www.zeiss.com/microscopy/en/products/software/zeiss-zen-lite.html
+  description: Zeiss Zen Lite download (PC only, requires registration)
+
+- image: nis-e.png
+  url: https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer
+  description: Nikon NIS elements download (mac or pc)
+
+
+# - image: userguide-pdf.png
+#  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/

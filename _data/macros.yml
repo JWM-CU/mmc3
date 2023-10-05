@@ -1,0 +1,23 @@
+
+- image: imagej2_macro.png
+  url: /assets/macros/Convert_Lif_to_Tif_.ijm
+  description: Extract image files within .lif file, save as .tif in new folder
+
+- image: imagej2_macro.png
+  url: /assets/macros/List_Files_inFoder_.ijm
+  description: Lists and counts all files in a folder
+
+- image: imagej2_macro.png
+  url: /assets/macros/Measure_Color_Distance_.ijm
+  description: Measures the % difference in color of two selections
+
+
+# - image: userguide-pdf.png
+#  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/
