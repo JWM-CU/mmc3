@@ -1,14 +1,14 @@
 
 - image: imagej2_macro.png
-  url: /assets/macros/Convert_Lif_to_Tif_.ijm
+  url: /assets/macros/Convert_Lif_to_Tif_.txt
   description: Extract image files within .lif file, save as .tif in new folder
 
 - image: imagej2_macro.png
-  url: /assets/macros/List_Files_inFoder_.ijm
+  url: /assets/macros/List_Files_inFoder_.txt
   description: Lists and counts all files in a folder
 
 - image: imagej2_macro.png
-  url: /assets/macros/Measure_Color_Distance_.ijm
+  url: /assets/macros/Measure_Color_Distance_.txt
   description: Measures the % difference in color of two selections
 
 
