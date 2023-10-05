@@ -1,4 +1,8 @@
 
+- image: can-center.png
+  url: https://www.cancer.columbia.edu/research/shared-resources/confocal-and-specialized-microscopy
+  description: Confocal and Specialized Microscopy Shared Resource (CSMSR) CUMC Imaging facility
+
 - image: image-sc.png
   url: https://forum.image.sc/
   description: image.sc (forum for imaging discussion)

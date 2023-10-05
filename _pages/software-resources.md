@@ -6,7 +6,7 @@ permalink: /software-resources/
 ---
 
 <br/>
-#### Image Viewer and Analysis Software
+#### Image viewer and analysis software
 
 
 <div class="software-links-container">
@@ -22,8 +22,7 @@ permalink: /software-resources/
 </div>
 
 <br/>
-#### Open Source Image analysis software
-
+#### Open Source image analysis software
 
 <div class="software-links-container">
 
@@ -38,8 +37,7 @@ permalink: /software-resources/
 </div>
 
 <br/>
-#### Links For Help with Imaging and Anaysis
-
+#### Additional resources for microscopy and image analysis
 
 <div class="software-links-container">
 
@@ -55,7 +53,7 @@ permalink: /software-resources/
 
 <br/>
 #### Macros written for Imagej
-##### (click icon, then right click and save as with an .ijm extension OR copy-paste into ImageJ text editor and save)
+##### (click icon, then right click and save with .ijm extension OR copy-paste into ImageJ text editor and save)
 
 <div class="software-links-container">
 
