@@ -55,7 +55,7 @@ permalink: /software-resources/
 
 <br/>
 #### Macros written for Imagej
-##### (right click and save as with an .ijm extension OR copy-paste into ImageJ text editor and save)
+##### (click icon, then right click and save as with an .ijm extension OR copy-paste into ImageJ text editor and save)
 
 <div class="software-links-container">
 
