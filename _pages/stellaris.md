@@ -22,7 +22,7 @@ permalink: /stellaris/
 
 * Located in room 828.
 
-* The NIH would to acknowlege grant **NIH S10 OD032447-01** in all publications that utilize this instrument. 
+* The NIH would like all investigators to acknowlege grant **NIH S10 OD032447-01** in all preprints and publications that utilize this instrument (PI: Hans-Willem Snoeck.). 
 
 </div>
 
