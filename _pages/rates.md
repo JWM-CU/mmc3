@@ -26,7 +26,7 @@ permalink: /rates/
 | Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
 | -------- | -------- | -------- |
 | Zeiss LSM 710 Confocal Microscope | $31.50   | 
-| Leica Stellaris 8 Confocal Microscope | $36.00 | 
+| Leica Stellaris 8 Confocal Microscope | $30.00 | 
 | Light Sheet Microscope (Leica SP8-DLS & Confocal) | $22.50 | 
 | Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $24.30 | 
 
