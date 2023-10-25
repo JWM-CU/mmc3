@@ -16,6 +16,7 @@ permalink: /rates/
 | Light Sheet Microscope (Leica SP8-DLS & Confocal) | $30.00 | 
 | Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $32.40 | 
 | Training (All Instruments) | $100.00 | 
+| Staff Image Acquisition | $100.00 | 
 
 
 

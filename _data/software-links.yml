@@ -11,6 +11,9 @@
   url: https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer
   description: Nikon NIS elements download (mac or pc)
 
+- image: aivia.png
+  url: https://www.aivia-software.com/
+  description: Aivia Image analysis (License Required)
 
 # - image: userguide-pdf.png
 #  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
