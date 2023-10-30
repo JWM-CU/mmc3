@@ -16,9 +16,9 @@ permalink: /dmi-1-2/
 
 * *Excellent for reviewing the results of your staining experiments prior to performing detailed confocal scanning.* 
 
-* Four fluorescence channels that can image, for example, DAPI, Alexa 488, Alexa 568, Alexa 647 along with bright field.
+* Four fluorescence channels DAPI, Alexa 488, Alexa 568, Alexa 647, or equivalent fluors, along with bright field.
 
-* Rapid stage scanning with Leica Navigator. Capturing to digital camera allows fast mutiplex capture of large regions of slides.
+* Rapid stage scanning with Leica Navigator allows fast, mutiplex, high resolution tile scans of tissue on your slides.
 
 * DMi station 1 has deconvolution options, post acquisition.  
 
