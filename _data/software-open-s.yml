@@ -11,6 +11,11 @@
   url: https://github.com/MouseLand/cellpose
   description: CellPose (for automated image segmentation)
 
+- image: cellprofiler.png
+  url: https://cellprofiler.org/
+  description: CellProfiler (for image analysis, cell detection)
+
+
 # - image: userguide-pdf.png
 #  url: /assets/user-guides/Zeiss710_guide_jwm.pdf
 
