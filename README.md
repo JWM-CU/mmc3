@@ -20,11 +20,9 @@ You may need to refresh your browser or run incognito mode to see website change
 
 ### Github pages
 
-You can host your site for free at Github pages [Github Pages](https://pages.github.com/). This will provide a free domain name at something like: https://<your_username>.github.io/<your_repository>.
+You can host your site for free at [Github Pages](https://pages.github.com/). This will provide a free domain name at something like: https://<your_username>.github.io/<your_repository>.
 
-https://github.com/JWM-CU/mmc3
-Follow github and github pages instructions.
-Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone to local computer, modify, and upload back to github).
+Follow github and github pages instructions. Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone (download) to local computer, modify the files, and upload back to github).<br>
 If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting /verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
 
 # Use of Rakefile and the command line 'rake publish':
