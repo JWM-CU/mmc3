@@ -1,6 +1,6 @@
-## This website was forked from Spencer Bryngelson. 
+### This website was forked from Spencer Bryngelson. 
 https://github.com/sbryngelson/academic-website-template 
-## Thank you Spencer!
+### Thank you Spencer!
 
 Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable left over material from his page that has not been deleted.
 
@@ -25,20 +25,20 @@ You can host your site for free at [Github Pages](https://pages.github.com/). Th
 Follow github and github pages instructions. Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone (download) to local computer, modify the files, and upload back to github).<br><br>
 If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting/verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
 
-## Use of Rakefile and the command line 'rake publish':
-  NOTE, github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  'rake publish' from the command line. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
+### Use of Rakefile and the command line 'rake publish':
+  Github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  `rake publish` from the command line. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
   First, you need to edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:<br>
   `system "git remote add origin git@github.com:<account_name>/<repository_name>.git"`<br>
   Once you have saved this and committed to main, you can run `rake publish` from the command line. It should build the website to the "master" branch of the github page due to the code:  `system "git push origin master --force".`
 
-  Once rake publish runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should eventually (minutes) display "your site is live at" with your repository and github.io name.
+  Once `rake publish` runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should within 2-3 minutes display "your site is live at" with your repository and github.io name. If it takes hours there is probably an error.
 
 ### Custom domain names
 
-You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command line with: nslookup <account_name>.github.io and a CNAME record with www <account_name>.github.io.
+You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command line with: nslookup <account_name>.github.io, and a CNAME record with www <account_name>.github.io.
 
 
-## Modify the website to create your own website
+### Modify the website to create your own website
 
 * _config.yml contains:
 - the URL which should be final domain name
@@ -70,6 +70,6 @@ The differences between most layouts is subtle and `gridlay` can generally be us
 The permalink must be unique for each page, and corresponds to the directory that will store the page in the compiled HTML. Refer to your pages in `_config.yml` via the `title` variable.
 
 ## License
-Copyright 2021 Spencer H. Bryngelson and controlled via the MIT license.
+Copyright 2021 Spencer H. Bryngelson and controlled via the MIT license.<br>
 Copyright 2023 John W. Murray. Webpage was forked and modified with changes in content, themes, and styles. 
 
