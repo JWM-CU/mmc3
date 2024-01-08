@@ -12,15 +12,15 @@ You may fork and customize this website, but Spencer's original website might be
 To fork and run, you will typically need to:
 * fork and copy files to your local computer (use github desktop and visual studio code).
 * Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
-* Run `$ bundle exec jekyll serve` by command line your repository root directory
+* Run `$ bundle exec jekyll serve` by command line your repository root directory.
 This creates/modifies the new "_site" folder that is your static website.
-* Your site is now hosted locally at `localhost:4000`, which you can type as a URL into your web browser.
+* Your site is now hosted locally at `localhost:4000`, which you can input as a URL into your web browser.
 * Many changes will be automatically re-built into the website when you save changes to your files.
-You may need to refresh your browser or run incognito mode to see website changes (browsers default to the cached files, so you may not see changes right away, and cache can be hard to clear).
+You may need to refresh your browser or run incognito mode to see website changes (browsers default to the cached files, so there can be a delay seeing the changes).
 
 ### Github pages
 
-You can host your site for free at Github [Github Pages](https://pages.github.com/).
+You can host your site for free at Github pages <a href="https://pages.github.com/" target="_blank">Github Pages</a> [Github Pages](https://pages.github.com/)].
 This will provide you a free domain name at something like: https://<your_username>.github.io/<your_repository>
 
 https://github.com/JWM-CU/mmc3
