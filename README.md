@@ -41,9 +41,9 @@ You can use a domain service such as Cloudflare to purchase a domain name and pe
 ### Modify the website to create your own website
 
 * _config.yml contains: <br>
-&nbsp;&nbsp;&nbsp;&nbsp; the URL which should be final domain name<br>
-&nbsp;&nbsp;&nbsp;&nbsp; names of the nav_pages, which are the tabs to click to other pages <br>
-&nbsp;&nbsp;&nbsp;&nbsp; a lot of other info on the main page <br>
+&nbsp;&nbsp;&nbsp;&nbsp; The URL which should be final domain name<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Names of the nav_pages, which are the tabs to click to other pages <br>
+&nbsp;&nbsp;&nbsp;&nbsp; A lot of other info on the main page <br>
 * _data contains: .yml files such as links and people
 * _includes contains: formatting
 * _layouts contains: formatting
