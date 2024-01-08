@@ -20,8 +20,7 @@ You may need to refresh your browser or run incognito mode to see website change
 
 ### Github pages
 
-You can host your site for free at Github pages <a href="https://pages.github.com/" target="_blank">Github Pages</a> [Github Pages](https://pages.github.com/)].
-This will provide you a free domain name at something like: https://<your_username>.github.io/<your_repository>
+You can host your site for free at Github pages [Github Pages](https://pages.github.com/)]. This will provide a free domain name at something like: https://<your_username>.github.io/<your_repository>.
 
 https://github.com/JWM-CU/mmc3
 Follow github and github pages instructions.
