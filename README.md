@@ -2,19 +2,18 @@
 https://github.com/sbryngelson/academic-website-template 
 ## Thank you Spencer!
 
-Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable left over material from his page that is not being used and has not been deleted.
+Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable left over material from his page that has not been deleted.
 
 ## Introduction 
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
-This means that Jekyll, a Ruby gem, is needed to generate the static website from the markdown and other content files. It uses Liquid and Bootstrap syntax to render the static site. I avoided many of the buttons from Spencer's site, such as the DOI/PDF/ARXIV/BIB/Abstract buttons and Jekyll Scholar and bibliography information.
+This is a statically-generated Jekyll/Liquid/Bootstrap-based website used for an academic microscopy lab. This means that Jekyll, a Ruby gem, is needed to generate the static website from the markdown and other content files. It uses Liquid and Bootstrap syntax to render the static site. I avoided many of the buttons from Spencer's site, such as the DOI/PDF/ARXIV/BIB/Abstract buttons and Jekyll Scholar and bibliography information.
 
 You may fork and customize this website, but Spencer's original website might be more helpful.
 To fork and run, you will typically need to:
 * fork and copy files to your local computer (use github desktop and visual studio code).
 * Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
 * Run `$ bundle exec jekyll serve` by command line your repository root directory
-* This creates/modifies the new "_site" folder that is your static website.
+This creates/modifies the new "_site" folder that is your static website.
 * Your site is now hosted locally at `localhost:4000`, which you can type as a URL into your web browser.
 * Many changes will be automatically re-built into the website when you save changes to your files.
 You may need to refresh your browser or run incognito mode to see website changes (browsers default to the cached files, so you may not see changes right away, and cache can be hard to clear).
