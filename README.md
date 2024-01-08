@@ -1,65 +1,65 @@
-# This website was forked from Spencer Bryngelson. Thank you Spencer!
+## This website was forked from Spencer Bryngelson. 
 https://github.com/sbryngelson/academic-website-template 
+## Thank you Spencer!
 
-Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website.
+Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable left over material from his page that is not being used and has not been deleted.
 
 ## Introduction 
 
 This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
-I started with the [Allan lab](https://www.allanlab.org/) webpage and modified it into a personal academic webpage that met my requirements.
-I worked in a unique set of the features that I desired and could not find in publicly available templates elsewhere.
-Some examples are:
+This means that Jekyll, a Ruby gem, is needed to generate the static website from the markdown and other content files. It uses Liquid and Bootstrap syntax to render the static site. I avoided many of the buttons from Spencer's site, such as the DOI/PDF/ARXIV/BIB/Abstract buttons and Jekyll Scholar and bibliography information.
 
-* Automatically-generated buttons for DOI/PDF/ARXIV/BIB/Abstract information
-  * via Jekyll Scholar
-* Bibliography information and abstracts open in drown down wells via buttons
-* Fontawesome icons (email, CV, Google scholar, ResearchGate, GitHub, etc.)
-* Dark color scheme via Bootswatch
-* Consistent and attractive `About me` page
+You may fork and customize this website, but Spencer's original website might be more helpful.
+To fork and run, you will typically need to:
+* fork and copy files to your local computer (use github desktop and visual studio code).
+* Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
+* Run `$ bundle exec jekyll serve` by command line your repository root directory
+* This creates/modifies the new "_site" folder that is your static website.
+* Your site is now hosted locally at `localhost:4000`, which you can type as a URL into your web browser.
+* Many changes will be automatically re-built into the website when you save changes to your files.
+You may need to refresh your browser or run incognito mode to see website changes (browsers default to the cached files, so you may not see changes right away, and cache can be hard to clear).
 
-I encourage the use of this webpage as a template for your own academic website.
-The remainder of this document describes how to do this.
-Broadly speaking, there are three steps:
+### Github pages
 
-* [Fork](#fork-and-build)
-* [Customize](#customization)
-* [Host](#hosting)
+You can host your site for free at Github [Github Pages](https://pages.github.com/).
+This will provide you a free domain name at something like: https://<your_username>.github.io/<your_repository>
 
-## Fork and build
+https://github.com/JWM-CU/mmc3
+Follow github and github pages instructions.
+Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone to local computer, modify, and upload back to github).
+If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting /verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
 
-* Fork [this repository](https://github.com/sbryngelson/sbryngelson.github.io) by clicking the `fork` button in the top-right corner of its Github page.
-* Install [Jekyll](https://jekyllrb.com/docs/installation/)  (version less than 4.0 required) on your local computer
-    * On MacOS, you will need to upgrade your Ruby version from the depricated v2.3 that is shipped. Follow the above Jekyll instructions closely.
-* Run `$ bundle exec jekyll serve` in the repository root directory
-* Your site is now hosted locally at `localhost:4000`, which you can access with your web browser.
-   * It will be automatically re-built as you save changes to the files it contains.
-   Refreshing your web browser reveals these changes.
+# Use of Rakefile and the command line 'rake publish':
+  NOTE, github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command line command:  'rake publish'. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.
+  First, edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:
+  system "git remote add origin git@github.com:<account_name>/<repository_name>.git"
+  Once you have saved this (and commit to main), you can run `rake publish` from the command line and it should build the website to the "master" branch of the github page, because of the code:  system "git push origin master --force".
 
-Note:
-* This webpage uses Jekyll plugins like Jekyll Scholar to automatically build your bibliography. 
-  If you are using Github pages then you will have to build the site with the `Rakefile` in the root directory of the source branch.
-  You can do so by first modifying the file as appropriate and then, after pushing your changes, execute `rake publish`.
+  Once rake publish runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should eventually (minutes) display "your site is live at" with your repository and github.io name.
 
-## Customization
+### Custom domain names
 
-* Modify `_config.yml` as appropriate
-* Modify YAML database files, located in `_data/*.yml`, as appropriate
-* Modify individual pages, located in `_pages/*.md`, as appropriate
+You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command line with: nslookup <account_name>.github.io and a CNAME record with www <account_name>.github.io.
 
-### Navbar
 
-The pages listed in the top navbar are located in `_config.yml` file.
-The typical options are already included or commented, though additional pages can be created and listed here.
+## Modify the website to create your own website
 
-### Creating or editing pages
+* _config.yml contains:
+- the URL which should be final domain name
+- names of the nav_pages, which are the tabs to click to other pages
+- a lot of other info on the main page
+* _data contains .yml files such as links and people
+* _includes contains formatting
+* _layouts contains formatting
+* _pages contains .md files containing much of the text and markup of for different pages (e.g. nav pages).
+* _sass contains text style. Bootstrap styles and two custom .scss (SHB and custom) 
+* assets contains external files such as pdfs
+* images contains images and logos
 
-All pages are located in the `_pages` directory.
-Pages generally load information from YAML databases located as `_data/*.yml`.
-Creating new pages can be done by using existing pages as a template.
 
 #### Page header information
 
-All pages require header information.
+Pages require header information.
 Example header data for the 'Talks' page is below.
 ```
 ---
@@ -71,48 +71,9 @@ permalink: /talks/
 ```
 The `layout` variable corresponds to HTML layouts in the `_layouts` directory.
 The differences between most layouts is subtle and `gridlay` can generally be used.
-The permalink must be unique for each page, and corresponds to the directory that will store the page in the compiled HTML.
-Refer to your pages in `_config.yml` via the `title` variable.
-
-
-## Hosting
-
-Host your site on Github pages and / or use a custom domain, for instance through Cloudflare. 
-
-### Github pages
-
-A simple way to host your site for free is via [Github Pages](https://pages.github.com/).
-This will provide you a free domain name at your_github_username.github.io.
-Instructions on how to do this are available on their page.
-They generally involve creating a repository on your Github titled `your_github_username.github.io` and uploading your files there (everything excepted the `_site/` directory, which the Github Pages service will generate using its own version of Jekyll).
-Then, Github will automatically rebuild your site every time you push a commit to the repository (no bundle/jekyll commands required).
-
-### Custom domain names
-
-You can use a standard domain service (e.g. [GoDaddy](https://www.godaddy.com/)) to purchase a domain name.
-Then, using the `CNAME` file and modifying the DNS settings of the domain service, you can direct your custom domain to the Github Pages-generated site.
-Detailed instructions for doing this for GoDaddy domains are available [here](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b), though analogous instructions apply to other services.
-
-### Hosting elsewhere
-
-If you already have a hosting service for a static HTML webpage, such as some universities provide, you can build your website locally using `bundle exec jekyll serve`.
-Then, upload the resulting files located in the `_site/` directory via SSH or FTP to this server.
-Be sure that the `site.url` and `site.baseurl` are set appropriately in the `_config.yml` file.
-
-## Alternatives
-
-### Static website generators
-
-A list of static webpage generators is available [here](https://www.staticgen.com/).
-For academic purposes, I believe most people use [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/).
-I am mostly unaware of their relative merits.
-However, both are relatively easy to use and offer many templates to base your ideas off of.
-This, in combination with their large user bases, make them particularly attractive.
-This site is built with Jekyll.
-
-
+The permalink must be unique for each page, and corresponds to the directory that will store the page in the compiled HTML. Refer to your pages in `_config.yml` via the `title` variable.
 
 ## License
 Copyright 2021 Spencer H. Bryngelson and controlled via the MIT license.
-Copyright 2023 John W. Murray
+Copyright 2023 John W. Murray. Webpage was forked and modified with changes in content, themes, and styles. 
 
