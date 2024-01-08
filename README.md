@@ -12,7 +12,7 @@ You may fork and customize this website, but Spencer's original website might be
 To fork and run, you will typically need to:
 * fork and copy files to your local computer (use github desktop and visual studio code).
 * Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
-* Run `$ bundle exec jekyll serve` by command line your repository root directory.
+* Run `bundle exec jekyll serve` by command line your repository root directory.
 This creates/modifies the new "_site" folder that is your static website.
 * Your site is now hosted locally at `localhost:4000`, which you can input as a URL into your web browser.
 * Many changes will be automatically re-built into the website when you save changes to your files.
@@ -41,7 +41,7 @@ You can use a domain service such as Cloudflare to purchase a domain name and pe
 ### Modify the website to create your own website
 
 * _config.yml contains: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;the URL which should be final domain name<br>
+&nbsp;&nbsp;&nbsp;&nbsp; the URL which should be final domain name<br>
 &nbsp;&nbsp;&nbsp;&nbsp; names of the nav_pages, which are the tabs to click to other pages <br>
 &nbsp;&nbsp;&nbsp;&nbsp; a lot of other info on the main page <br>
 * _data contains: .yml files such as links and people
@@ -53,7 +53,7 @@ You can use a domain service such as Cloudflare to purchase a domain name and pe
 * images contains: images and logos
 
 
-#### Page header information
+### Page header information
 
 Pages require header information.
 Example header data for the 'Talks' page is below.
