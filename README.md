@@ -22,14 +22,14 @@ You may need to refresh your browser or run incognito mode to see website change
 
 You can host your site for free at [Github Pages](https://pages.github.com/). This will provide a free domain name at something like: https://<your_username>.github.io/<your_repository>.
 
-Follow github and github pages instructions. Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone (download) to local computer, modify the files, and upload back to github).<br>
-If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting /verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
+Follow github and github pages instructions. Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone (download) to local computer, modify the files, and upload back to github).<br><br>
+If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting/verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
 
-# Use of Rakefile and the command line 'rake publish':
-  NOTE, github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command line command:  'rake publish'. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.
-  First, edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:
-  system "git remote add origin git@github.com:<account_name>/<repository_name>.git"
-  Once you have saved this (and commit to main), you can run `rake publish` from the command line and it should build the website to the "master" branch of the github page, because of the code:  system "git push origin master --force".
+## Use of Rakefile and the command line 'rake publish':
+  NOTE, github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  'rake publish' from the command line. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
+  First, you need to edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:<br>
+  `system "git remote add origin git@github.com:<account_name>/<repository_name>.git"``
+  Once you have saved this and committed to main, you can run `rake publish` from the command line and it should build the website to the "master" branch of the github page, because of the code:  system "git push origin master --force".
 
   Once rake publish runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should eventually (minutes) display "your site is live at" with your repository and github.io name.
 
