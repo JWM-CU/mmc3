@@ -40,17 +40,17 @@ You can use a domain service such as Cloudflare to purchase a domain name and pe
 
 ### Modify the website to create your own website
 
-* _config.yml contains:
-- the URL which should be final domain name
-- names of the nav_pages, which are the tabs to click to other pages
-- a lot of other info on the main page
-* _data contains .yml files such as links and people
-* _includes contains formatting
-* _layouts contains formatting
-* _pages contains .md files containing much of the text and markup of for different pages (e.g. nav pages).
-* _sass contains text style. Bootstrap styles and two custom .scss (SHB and custom) 
-* assets contains external files such as pdfs
-* images contains images and logos
+* _config.yml contains: <br>
+the URL which should be final domain name
+> names of the nav_pages, which are the tabs to click to other pages <br>
+> a lot of other info on the main page <br>
+* _data contains: .yml files such as links and people
+* _includes contains: formatting
+* _layouts contains: formatting
+* _pages contains: .md files containing much of the text and markup of for different pages (e.g. nav pages).
+* _sass contains: text style. Bootstrap styles and two custom .scss (SHB and custom) 
+* assets contains: external files such as pdfs
+* images contains: images and logos
 
 
 #### Page header information
