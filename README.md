@@ -29,7 +29,7 @@ If you haven't used github before, you will have to learn how to use it and gith
   NOTE, github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  'rake publish' from the command line. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
   First, you need to edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:<br>
   `system "git remote add origin git@github.com:<account_name>/<repository_name>.git"`<br>
-  Once you have saved this and committed to main, you can run `rake publish` from the command line and it should build the website to the "master" branch of the github page, because of the code:  system "git push origin master --force".
+  Once you have saved this and committed to main, you can run `rake publish` from the command line. It should build the website to the "master" branch of the github page due to the code:  `system "git push origin master --force".`
 
   Once rake publish runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should eventually (minutes) display "your site is live at" with your repository and github.io name.
 
