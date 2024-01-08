@@ -1,42 +1,7 @@
-# A website template for academics
+# This website was forked from Spencer Bryngelson. Thank you Spencer!
+https://github.com/sbryngelson/academic-website-template 
 
-## Users
-
-Some users:
-<a href="https://ilafly.github.io/" target="_blank">★</a>
-<a href="https://i-vesseg.github.io/" target="_blank">★</a>
-<a href="https://xfangsn.github.io/" target="_blank">★</a>
-<a href="https://joshuagob.github.io" target="_blank">★</a>
-<a href="https://bczheng.com/" target="_blank">★</a>
-<a href="https://bazilinskyy.github.io/" target="_blank">★</a>
-<a href="https://www.coreytcallaghan.com/" target="_blank">★</a>
-<a href="https://minseoksong.github.io/" target="_blank">★</a>
-<a href="https://acme-group-cmu.github.io/" target="_blank">★</a>
-<a href="https://barrylee36.github.io/" target="_blank">★</a>
-<a href="https://adisun94.github.io/" target="_blank">★</a>
-<a href="https://comp-physics.group" target="_blank">★</a>
-<a href="https://spike.doc.ic.ac.uk/" target="_blank">★</a>
-<a href="http://www.msc.univ-paris-diderot.fr/~berhanu/" target="_blank">★</a>
-<a href="https://mashadab.github.io/" target="_blank">★</a>
-<a href="https://home.iitk.ac.in/~lalit/" target="_blank">★</a>
-<a href="https://ethan-pickering.github.io/" target="_blank">★</a>
-<a href="https://pedro-dm-gomes.github.io/" target="_blank">★</a>
-<a href="https://3tbk.github.io/3tbk/" target="_blank">★</a>
-<a href="https://felipesua.github.io/" target="_blank">★</a>
-<a href="https://shivvrat.github.io/" target="_blank">★</a>
-<a href="https://ritamraha.github.io/" target="_blank">★</a>
-<a href="https://matsesseldeurs.github.io/" target="_blank">★</a>
-<a href="https://michelleblom.github.io/" target="_blank">★</a>
-<a href="https://jrd971000.github.io/" target="_blank">★</a>
-<a href="https://melashri.net/" target="_blank">★</a>
-<a href="https://sahatulika15.github.io" target="_blank">★</a>
-<a href="https://mzhanglab.github.io" target="_blank">★</a>
-<a href="https://soar-lab.github.io" target="_blank">★</a>
-
-
-
-
-__If you are using this template, feel free to share your site with me and I'll add it here!__
+Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website.
 
 ## Introduction 
 
@@ -109,20 +74,10 @@ The differences between most layouts is subtle and `gridlay` can generally be us
 The permalink must be unique for each page, and corresponds to the directory that will store the page in the compiled HTML.
 Refer to your pages in `_config.yml` via the `title` variable.
 
-#### Markdown
-
-All pages are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as `*.md`.
-HTML commands and CSS styles can be directly used in a markdown files.
-
-#### Publication page and database
-
-The publications and talks are now listed via Jekyll Scholar.
-The bibliography file `ref.bib` is located in the `cv/` directory.
-Modify according to your needs.
 
 ## Hosting
 
-Once your site has been modified to fit your needs, you should host it somewhere so others can access it.
+Host your site on Github pages and / or use a custom domain, for instance through Cloudflare. 
 
 ### Github pages
 
@@ -155,23 +110,9 @@ However, both are relatively easy to use and offer many templates to base your i
 This, in combination with their large user bases, make them particularly attractive.
 This site is built with Jekyll.
 
-### Templates
 
-Other Jekyll templates are of course available.
-Some of these are viable for very simple academic pages with little tuning:
-* [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)
-* [al-folio](https://github.com/alshedivat/al-folio)
-* [academicpages](https://academicpages.github.io/)
-
-However, they do not natively include many of the features I list at the top.
-For this reason, I decided to construct my own.
-
-## Acknowledgment
-
-I credit the [Allen Lab](https://www.allanlab.org/) for creating a beautiful academic research group webpage.
-Many parts of this site were adopted or copied from their laboratory webpage.
 
 ## License
+Copyright 2021 Spencer H. Bryngelson and controlled via the MIT license.
+Copyright 2023 John W. Murray
 
-Copyright 2021, Spencer H. Bryngelson and controlled via the MIT license.
-You can copy and mess with this template.

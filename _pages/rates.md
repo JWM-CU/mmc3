@@ -24,7 +24,7 @@ permalink: /rates/
 <br/>
 
 
-| Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
+| Off-Peak (M-F 7pm-7am, Sat and Sun) | Hourly Rate | 
 | -------- | -------- | -------- |
 | Zeiss LSM 710 Confocal Microscope | $31.50   | 
 | Leica Stellaris 8 Confocal Microscope | $30.00 | 
