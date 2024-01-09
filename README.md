@@ -35,7 +35,7 @@ If you haven't used github before, you will have to learn how to use it and gith
 
 ### Custom domain names
 
-You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command prompt with: nslookup <account_name>.github.io, and a CNAME record with www <account_name>.github.io.
+You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. In such case, your website will be found at the ULR / domain name that you have purchased, but Github will still host the site, and you will input the custom domain in Github Pages. Cloudflare will manage content delivery and the domain records. Search for instructions for this. In Cloudflare You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command prompt with: nslookup <account_name>.github.io, and a CNAME record with www <account_name>.github.io.
 
 
 ### Modify the website to create your own website
