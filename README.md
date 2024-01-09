@@ -31,7 +31,7 @@ If you haven't used github before, you will have to learn how to use it and gith
   `system "git remote add origin git@github.com:<account_name>/<repository_name>.git"`<br>
   Once you have saved this and committed to main, you can run `rake publish` from the command line. It should build the website to the "master" branch of the github page due to the code:  `system "git push origin master --force".`
 
-  Once `rake publish` runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should within 2-3 minutes display "your site is live at" with your repository and github.io name. If it takes hours there is probably an error.
+  Once `rake publish` runs, go to your Github page, go to the "actions" tab and wait for a change from yellow to green arrow, incidating your page has been built/deployed. Then on Github go to Settings > Pages (on lower left). Choose proper settings: deploy from branch, master. Github Pages should  display "your site is live at" with your repository and github.io name within 2-3 minutes. If it takes hours there is probably an error.
 
 ### Custom domain names
 
@@ -42,13 +42,13 @@ You can use a domain service such as Cloudflare to purchase a domain name and pe
 
 * _config.yml contains: <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The URL which should be final domain name<br>
-&nbsp;&nbsp;&nbsp;&nbsp; Names of the nav_pages, which are the tabs to click to other pages <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Names of the nav_pages, which are the tabs to click to go to other pages <br>
 &nbsp;&nbsp;&nbsp;&nbsp; A lot of other info on the main page <br>
 * _data contains: .yml files such as links and people
 * _includes contains: formatting
 * _layouts contains: formatting
 * _pages contains: .md files containing much of the text and markup of for different pages (e.g. nav pages).
-* _sass contains: text style. Bootstrap styles and two custom .scss (SHB and custom) 
+* _sass contains: text style. Bootstrap styles and two custom .scss files, SHB and custom 
 * assets contains: external files such as pdfs
 * images contains: images and logos
 
