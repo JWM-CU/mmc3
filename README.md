@@ -12,7 +12,7 @@ You may fork and customize this website, but Spencer's original website might be
 To fork and run, you will typically need to:
 * fork and copy files to your local computer (use github desktop and visual studio code).
 * Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
-* Run `bundle exec jekyll serve` by command line your repository root directory.
+* Run `bundle exec jekyll serve` from command prompt in your repository root directory.
 This creates/modifies the new "_site" folder that is your static website.
 * Your site is now hosted locally at `localhost:4000`, which you can input as a URL into your web browser.
 * Many changes will be automatically re-built into the website when you save changes to your files.
@@ -25,8 +25,8 @@ You can host your site for free at [Github Pages](https://pages.github.com/). Th
 Follow github and github pages instructions. Typically, you create a public repository on your Github and upload your cloned files there via github desktop (i.e. fork from github, clone (download) to local computer, modify the files, and upload back to github).<br><br>
 If you haven't used github before, you will have to learn how to use it and github desktop to some degree including generating an SSH Key or Use HTTPS for Authentication (connecting/verifying your local computer to the github website). When you "commit to main" in github desktop, github will try to build the webpage at `_site/` using its own version of Jekyl, so the 'bundle/jekyll' commands are not involved in github pages.
 
-### Use of Rakefile and the command line 'rake publish':
-  Github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  `rake publish` from the command line. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
+### Use of Rakefile and 'rake publish':
+  Github's internal Jekyl probably won't work for this webpage. In which case you'll need to build the webpage on github using the command:  `rake publish` from the command prompt. This force builds the site on github using code in the 'Rakefile' that is located in the root directory.<br><br>
   First, you need to edit Rakefile to direct it towards your github repository. I believe I only needed to modify the line:<br>
   `system "git remote add origin git@github.com:<account_name>/<repository_name>.git"`<br>
   Once you have saved this and committed to main, you can run `rake publish` from the command line. It should build the website to the "master" branch of the github page due to the code:  `system "git push origin master --force".`
@@ -35,7 +35,7 @@ If you haven't used github before, you will have to learn how to use it and gith
 
 ### Custom domain names
 
-You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command line with: nslookup <account_name>.github.io, and a CNAME record with www <account_name>.github.io.
+You can use a domain service such as Cloudflare to purchase a domain name and perform DNS management. Search for instructions for this. You will need to add records for the domain name such as an "A" record with IP addres (find IP address in command prompt with: nslookup <account_name>.github.io, and a CNAME record with www <account_name>.github.io.
 
 
 ### Modify the website to create your own website
