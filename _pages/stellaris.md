@@ -22,9 +22,9 @@ permalink: /stellaris/
 
 * Located in room 828.
 
-* The NIH would like us to acknowledge grant **S10 OD032447-01** in all preprints and publications that utilize this instrument (PI: Hans-Willem Snoeck).
+* The NIH would like us to acknowledge grant **S10 OD032447** in all preprints and publications that utilize this instrument (PI: Hans-Willem Snoeck).
     Suggested phrasing:
-> _Research reported in this publication was supported in part by the Office of the Director, National Institutes of Health under award S10 OD032447-01_
+> _Research reported in this publication was supported in part by the Office of the Director, National Institutes of Health under award S10 OD032447_
 
 
 </div>
