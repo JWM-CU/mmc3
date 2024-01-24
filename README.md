@@ -14,7 +14,7 @@ To fork and run, you will typically need to:
 * Install [Jekyll](https://jekyllrb.com/docs/installation/) which requires installation of Ruby.
 * Run `bundle exec jekyll serve` from command prompt in your repository root directory.
 This creates/modifies the new "_site" folder that is your static website.
-* Your site is now hosted locally at `localhost:4000`, which you can input as a URL into your web browser.
+* Your site would then be hosted locally at `localhost:4000`, which you can input as a URL into your web browser.
 * Many changes will be automatically re-built into the website when you save changes to your files.
 You may need to refresh your browser or run incognito mode to see website changes (browsers default to the cached files, so there can be a delay seeing the changes).
 
