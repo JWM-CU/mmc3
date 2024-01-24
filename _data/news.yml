@@ -1,9 +1,27 @@
-- date: 2023-09-28
-  headline: > 
-    DLS LIGHT SHEET. The DLS Light Sheet has an new 20X dry tissue scanning lens!
-    This replaces the previous 20X immersion lens and works great
-    for confocal imaging of your samples. I have tested it for chromatic 
-    aberration and image quality and it looks excellent. Representative images are available on request.
+
+- date: 2024-02-23
+  headline: >
+    STELLARIS SEMINAR! 4-5pm, 2024-02-23, 8th floor Black Building
+    Albert Ayoub, Confocal Specialist from Leica Microsystems will discuss the 
+    innovative features of the Stellaris 8 microscope. Hear about cutting edge 
+    techniques and how to improve your images and use novel technology. 
+    Seminar will by in person and on Zoom. We will send out emails and post 
+    zoom link.
+    Albert will also be conducting Stellaris small group workshops in March. 
+    Details to follow.   
+
+- date: 2024-01-24
+  headline: >
+    DMi Station 1. We are upgrading LASX to version 3.6.1. Additionally I
+    I will install an additional hard drive on the computer. These changes 
+    should improve performance. 
+
+- date: 2024-01-23
+  headline: >
+    DMi Station 1. The fluorescence lamp was adjusted to reduce the appearance of 
+    tile borders on merged (stitched) tile scans. Your acqusition settings may
+    may need slight adjustment, but the appearance should be improved.  
+
 
 - date: 2023-06-30
   headline: >
