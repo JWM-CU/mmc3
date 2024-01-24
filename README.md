@@ -2,7 +2,7 @@
 https://github.com/sbryngelson/academic-website-template 
 ### Thank you Spencer!
 
-Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable left over material from his page that has not been deleted.
+Many of the comments below are from his website, and you can refer to his website for information, and perhaps a cleaner template for building your own website. There's considerable leftover material from his page that has not been deleted.
 
 ## Introduction 
 
