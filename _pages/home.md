@@ -5,8 +5,8 @@ sitemap: false
 permalink: /
 ---
 
-
-<a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations </a> 
+{% for member in site.data.pi %}
+{% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations </a> {% endif %}
 
 
 ### MMC Instruments
@@ -45,6 +45,8 @@ Primary imaging room. Black Building, room 828.  <br/>
 <br/>
 <div>
 <div>
+
+{% endfor %}
 
 <!-- </center> -->
 <!-- 
