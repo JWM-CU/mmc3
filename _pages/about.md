@@ -27,7 +27,7 @@ permalink: /about/
   {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank"> MMC core link </a> {% endif %}
 -->
 
-  {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations and Info </a> {% endif %}
+  {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations </a> {% endif %}
   <br/>
   
 
@@ -44,7 +44,7 @@ permalink: /about/
  {% assign mmc = "Columbia Medicine Microscopy Core (MMC)" %}
  {% assign mmc_link = site.data.home-links | where: "name", mmc | first %}
 
-  <p>The Medicine Microscopy Core (MMC) is a confocal and wide field microscopy core available by reservation through the iLab system. We are part of the <a href="{{ cchd_link.url }}" target="_blank" rel="noopener noreferrer">{{ cchd_link.name }}</a>, the <a href="{{ csct_link.url }}" target="_blank" rel="noopener noreferrer">{{ csct_link.name }}</a> and also the <a href="{{ dmed_link.url }}" target="_blank" rel="noopener noreferrer">{{ dmed_link.name }}</a> and provide training, maintenance, and assitance with all instruments.  We specialize in tissue scanning and high resolution multi-channel fluorescence imaging welcome collaborations for custom imaging and analysis.</p>
+  <p>The Medicine Microscopy Core (MMC) is a confocal and wide field microscopy core available by reservation through the iLab system. We are part of the <a href="{{ cchd_link.url }}" target="_blank" rel="noopener noreferrer">{{ cchd_link.name }}</a>, the <a href="{{ csct_link.url }}" target="_blank" rel="noopener noreferrer">{{ csct_link.name }}</a> and also the <a href="{{ dmed_link.url }}" target="_blank" rel="noopener noreferrer">{{ dmed_link.name }}</a> and provide training, maintenance, and assitance with all instruments.  We specialize in tissue scanning and high resolution multi-channel fluorescence imaging and welcome collaborations for custom image and analysis.</p>
 
   <p> We are located in the 8th Floor of the William Black Building<br/>
    Columbia University Irving Medical Center <br/>

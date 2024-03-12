@@ -5,8 +5,10 @@ sitemap: false
 permalink: /
 ---
 
-<!-- <div class="background-text full-width-container"> -->
-<div class="jumbotron" style="font-size:20px;">  
+
+<a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations </a> 
+
+
 ### MMC Instruments
 
 
@@ -20,7 +22,9 @@ permalink: /
 
 * Leica Stellaris 8 Confocal. White Light Laser (multiplex imaging), Lightning Deconvolution, Lifetime imaging, Live imaging
 
-</div>
+<!-- </div>
+-->
+
 <!-- I can add font size like this here:
 <p style="font-size:40px;">
 </p>
