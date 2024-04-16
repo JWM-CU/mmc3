@@ -5,9 +5,19 @@ sitemap: false
 permalink: /software-resources/
 ---
 
-<br/>
-#### Image viewer and analysis software
+ <!-- Creation of links using assign and liquid links e.g. {{ cchd_link.name }} --> 
+ {% assign facilities = "facilities and other resources (PDF link)" %}
+ {% assign facilities_link = site.data.home-links | where: "name", facilities | first %}
 
+
+### Facilities and equipment
+
+Please use information from our <a href="{{ facilities_link.url }}" target="_blank" rel="noopener noreferrer">{{ facilities_link.name }}</a> page for your grant applications.
+<br/><br/>
+
+### Software
+
+#### Image viewer and analysis software
 
 <div class="software-links-container">
 

@@ -11,6 +11,10 @@
   url: https://www.vagelos.columbia.edu/departments-centers/centers-and-institutes/columbia-center-stem-cell-therapies
   name: Columbia Center for Stem Cell Therapies
 
+- image: facilities-pdf.png
+  url: /assets/facilities/MMC_facilities_and_other_resources.pdf
+  name: facilities and other resources (PDF link)
+
 # - image: mmc-qcode.png
 #  url: https://www.columbia-mmc.org/
 #  name: Columbia Medicine Microscopy Core (MMC)
