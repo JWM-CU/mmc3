@@ -11,10 +11,15 @@ permalink: /allnews.html/
 <!-- <div class="jumbotron custom-news-font"> -->
 <!-- <div class="jumbotron-sm"> -->
 <!-- <div> -->
+
+
 <div class="jumbotron">
 {% for article in site.data.news %} 
-<b>{{ article.date }}</b>
-
+<b>{{ article.date }}</b><br>
 {{ article.headline }}
 {% endfor %}
 </div>
+
+
+
+
