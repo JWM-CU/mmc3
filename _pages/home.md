@@ -16,6 +16,8 @@ permalink: /
 
 * DMi 2, Leica DMi8 inverted fluorescence tissue scanning microscope
 
+* Live Imaging System Zeiss Axio Observer.Z1 with Apotome 2
+
 * Light Sheet and Confocal Microscope
 
 * Zeiss LSM 710 Confocal. 6 laser lines, 3 detectors

@@ -1,40 +1,28 @@
 ---
-title: "Stellaris"
+title: "Live-imaging"
 layout: gridlay
 sitemap: false
-permalink: /stellaris/
+permalink: /live-imaging/
 ---
+<div class="jumbotron" style="font-size:20px;"> 
+## Live Imaging Zeiss Axio Observer.Z1 Information
 
-<div class="jumbotron" style="font-size:20px;">  
-## Stellaris 8 Confocal Microscope Information
+* Zeiss Axio Observer.Z1 wide field microscope with Apotome, High speed imaging, Zen Blue Software, and 5 fluorescence channels.
 
-* Leica confocal with fast laser scanning, Las X navigator, and 5 utra-sensitive HyD detectors.
+* Mutiplex imaging with 6 chanels: DAPI, CFP, EGFP, DsRed, Cy5, Brightfield. 
 
-* Mutiplex imaging with tunable White Light Laser (WLL) and tunable detectors. Choose any number of laser lines, any wavelengths to 790nm. We typically use up to **6 fluorescence channels** with potential for 8 or more.
+* Excellent Zeiss optics.
 
-* Lightning near super resolution deconvolution.
+* Objective lenses: 5X, 10x, 20x long distance (collar), 20X, 63x Oil 1.4NA, 63X water 1.2NA. 
 
-* TauSense easy to use fluorescence lifetime imaging : reduce background and detect different fluors based on their fluorescence lifetime.  
-
-* Temperature and CO2 control for live imaging.
-
-* Objective lenses: 10X, 20X, 25X immersion 0.95NA, 40X Oil 1.4NA, 63x Oil 1.4NA.
-
-* Located in room 828.
-
-* The NIH would like us to acknowledge grant **S10 OD032447** in all preprints and publications that utilize this instrument (PI: Hans-Willem Snoeck).
-    Suggested phrasing:
-> _Research reported in this publication was supported in part by the Office of the Director, National Institutes of Health under award S10 OD032447_
-
-
+* Located in room VP&S 8-508B.
 </div>
 
-<br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/stellaris-sys.jpg" width="70%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/live-imaging-sys.jpg" width="60%"/>
 
-Layout of the Stellaris 8 system, room 828.
+Layout of the Zeiss 710 system, room 828.
 <br/>
-
+<br/>
 
 
 <!--
@@ -104,15 +92,11 @@ Layout of the Stellaris 8 system, room 828.
 
 -->
 
-<!-- <div class="jumbotron"> -->
-
 <div class="jumbotron-clear">
 
 #### Links and User Guide
 <div style='display:block; text-align:left; margin-left:auto; margin-right:auto;'>
-{% for link in site.data.stel-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
+{% for link in site.data.z710-links %}<a href="{{ link.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ link.image }}' style='max-height: 80px; max-width: 200px; margin: 2%'/></a>{% endfor %}
 </div>
 </div>
 
-
-<!-- </div> -->

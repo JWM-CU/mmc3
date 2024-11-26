@@ -15,10 +15,11 @@ permalink: /rates/
 | Leica Stellaris 8 Confocal Microscope | $40.00 | 
 | Light Sheet Microscope (Leica SP8-DLS & Confocal) | $30.00 | 
 | Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $32.40 | 
+| Live Imaging System | $30.00* |
 | Training (All Instruments) | $100.00 | 
 | Staff Image Acquisition | $100.00 | 
 
-
+###### *$150/24 hrs
 
 <br/>
 <br/>
@@ -29,7 +30,8 @@ permalink: /rates/
 | Zeiss LSM 710 Confocal Microscope | $31.50   | 
 | Leica Stellaris 8 Confocal Microscope | $30.00 | 
 | Light Sheet Microscope (Leica SP8-DLS & Confocal) | $22.50 | 
-| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $24.30 | 
+| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $24.30 |
+| Live Imaging System | $22.50 | 
 
 <br/>
 <div>

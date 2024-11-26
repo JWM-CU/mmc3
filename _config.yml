@@ -21,22 +21,22 @@ affiliation: >
   Columbia University <br/> 
   Department of Medicine <br/>
   Columbia Center for Human Development (CCHD) <br/>
-  jwm2175@cumc.columbia.edu <br/>
-  Office phone: (212)305-4130 <br/>
+  jwm2175©cumc•columbia•edu <br/>
+  Office phone: 212•305•4130 <br/>
 
 # location: >
 #  William Black Building 8th Floor <br/> 
 #  [William Black Building 8th Floor](https://www.google.com/maps/place/https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9)  (https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9) <br/> 
-#  Room 828 and 832 <br/>
-#  Office: room 801 <br/>
+#  Room 828, 832, and VP&S 8-508B <br/>
+#  Office: room 801F <br/>
 #  650 West 168th Street <br/>
 #  New York, NY 10032 <br/>
 
 location: >
   William Black Building<br/> 
   <a href="https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9" target="_blank">(google maps link)</a> <br/> 
-  8th Floor, Room 828 and 832 <br/>
-  Office: room 801 <br/>
+  8th Floor, Room 828, 832, and VP&S 8-508B <br/>
+  Office: room 801F <br/>
   650 West 168th Street <br/>
   New York, NY 10032 <br/>
 
@@ -46,7 +46,7 @@ hours: >
   Staffed: M-F, 9am-5pm <br/>
 
 contact: >
-   jwm2175@cumc.columbia.edu
+   jwm2175©cumc•columbia•edu
 
 # Pages shown in navbar
 nav_pages:
@@ -55,6 +55,7 @@ nav_pages:
   - name: zeiss710
   - name: lightsheet
   - name: dmi-1-2
+  - name: live-imaging
   - name: rates
   - name: software-resources
 #  - name: publications

@@ -12,6 +12,11 @@ Please use information from our <a href="{{ facilities_link.url }}" target="_bla
 <br/>
 <br/>
 
+### Laser Safety
+{% assign facilities_link = site.data.laser-safety-links[0] %}
+Please use information from our <a href="{{ facilities_link.url }}" target="_blank" rel="noopener noreferrer">{{ facilities_link.name }}</a> for safe use of lasers.
+<br/>
+<br/>
 ### Software
 
 #### Image viewer and analysis software
