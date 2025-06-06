@@ -1,0 +1,17 @@
+
+- image: ziess.png
+  url: https://www.zeiss.com/microscopy/us/products/light-microscopes/widefield-microscopes/axio-observer-for-life-science-research.html
+- image: ziess-s.png
+  url: https://zeiss-campus.magnet.fsu.edu/index.html
+  description: Carl Zeiss Microscopy Online Campus
+- image: userguide-pdf.png
+  url: /assets/user-guides/Live-imaging_guide_jwm.pdf
+- image: coreview_icon.png
+  url: /assets/user-guides/Fast-capture-guide.pdf
+
+# - image: doe_logo.png
+#  url: https://www.energy.gov/
+# - image: onr_logo.png
+#  url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#  url: https://www.nih.gov/
