@@ -18,11 +18,13 @@ permalink: /
 
 * Live Imaging System Zeiss Axio Observer.Z1 with Apotome 2
 
-* Light Sheet and Confocal Microscope
+* Light Sheet and confocal microscope
 
 * Zeiss LSM 710 Confocal. 6 laser lines, 3 detectors
 
-* Leica Stellaris 8 Confocal. White Light Laser (multiplex imaging), Lightning Deconvolution, Lifetime imaging, Live imaging
+* Leica Stellaris 8 Confocal. White Light Laser (multiplex imaging), Lightning deconvolution, lifetime imaging, live imaging
+
+* Seahorse metabolic analysis
 
 <!-- </div>
 -->

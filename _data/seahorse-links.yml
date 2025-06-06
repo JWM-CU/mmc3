@@ -1,13 +1,11 @@
 
-- image: ziess.png
-  url: https://www.zeiss.com/microscopy/us/products/light-microscopes/widefield-microscopes/axio-observer-for-life-science-research.html
-- image: ziess-s.png
-  url: https://zeiss-campus.magnet.fsu.edu/index.html
-  description: Carl Zeiss Microscopy Online Campus
+- image: agilent.png
+  url: https://www.agilent.com/en/product/cell-analysis/real-time-cell-metabolic-analysis/xf-analyzers
+- image: seahorse_cartridge.png
+  url: https://www.agilent.com/en/product/cell-analysis/real-time-cell-metabolic-analysis/xf-sensor-cartridges-cell-culture-microplates/seahorse-fluxpaks-740883
+  description: Seahorse Fluxpacks
 - image: userguide-pdf.png
-  url: /assets/user-guides/Live-imaging_guide_jwm.pdf
-- image: coreview_icon.png
-  url: /assets/user-guides/Fast-capture-guide.pdf
+  url: /assets/user-guides/Overview of Seahorse Protocol_JWM_2024-10-30.pdf
 
 # - image: doe_logo.png
 #  url: https://www.energy.gov/
