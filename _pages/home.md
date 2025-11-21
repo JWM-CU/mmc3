@@ -8,6 +8,12 @@ permalink: /
 {% for member in site.data.pi %}
 {% if member.mmc_link %} <a href="{{ member.mmc_link }}" target="_blank" class="larger-link">iLab Link for Reservations </a> {% endif %}
 
+<a href="{{ '/assets/facilities/990_demo.pdf' | relative_url }}" 
+   target="_blank" 
+   class="larger-link">
+   MON NOV 24TH: ZEISS 99O SEMINAR AND DEMONSTRATION INFORMATION
+</a>
+
 
 ### MMC Instruments
 
