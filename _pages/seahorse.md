@@ -7,9 +7,9 @@ permalink: /seahorse/
 <div class="jumbotron" style="font-size:20px;"> 
 ## Seahorse System Information
 
-* Aigilent Seahorse XFe96 (96 well) and XFp (8 well) Flux Analyzers. 
+* Agilent Seahorse XFe96 (96 well) and XFp (8 well) Flux Analyzers. 
 
-* Acurately measure glycolytic and mitochrondrial function in live cells. 
+* Accurately measure glycolytic and mitochondrial function in live cells. 
 
 * Users provide reagents and cartridges. 
 

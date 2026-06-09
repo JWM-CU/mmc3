@@ -18,7 +18,7 @@ permalink: /lightsheet/
 
 * Leica SP8 confocal with 4 laser lines, 4 detectors.
 
-* Mutiplex imaging, laser lines at 405, 488, 552, 638 nm. 
+* Multiplex imaging, laser lines at 405, 488, 552, 638 nm. 
 
 * Leica Navigator for slide scanning
 
@@ -38,7 +38,7 @@ permalink: /lightsheet/
   - Very fast Z-scanning
   - Very low photobleaching
   - <p>Images through thick samples (milimeter range) </p>
-  - Excellent for 3 dimensional imaging of tissues that are too large or thick for confocal imaging
+  - Excellent for 3-dimensional imaging of tissues that are too large or thick for confocal imaging
   - Typically involves optical clearing 
 
 * Objective lenses: 10X, 20X, 40X Oil 1.4NA, 63x Oil 1.4NA.

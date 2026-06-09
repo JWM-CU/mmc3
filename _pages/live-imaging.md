@@ -7,11 +7,11 @@ permalink: /live-imaging/
 <div class="jumbotron" style="font-size:20px;"> 
 ## Live Imaging System Information
 
-* Zeiss Axio Observer.Z1 wide field microscope, Zen Blue Software, 5 fluorescence channels, automated stage, and optional Apotome2 Z-sectioning, and high speed (ciliary beat) acquistion with CoreView.
+* Zeiss Axio Observer.Z1 wide field microscope, Zen Blue Software, 5 fluorescence channels, automated stage, and optional Apotome2 Z-sectioning, and high speed (ciliary beat) acquisition with CoreView.
 
-* Image living cells for multple days under CO2 and 37ºC incubation.
+* Image living cells for multiple days under CO2 and 37ºC incubation.
 
-* Mutiplex imaging with 5 fluorescence channels, DAPI, CFP, EGFP, DsRed, Cy5, and Brightfield. 
+* Multiplex imaging with 5 fluorescence channels, DAPI, CFP, EGFP, DsRed, Cy5, and Brightfield. 
 
 * Excellent optics.
 

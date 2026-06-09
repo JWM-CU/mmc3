@@ -8,7 +8,7 @@ permalink: /stellaris/
 <div class="jumbotron" style="font-size:20px;">  
 ## Stellaris 8 Confocal Microscope Information
 
-* Leica confocal with fast laser scanning, Las X navigator, and 5 utra-sensitive HyD detectors.
+* Leica confocal with fast laser scanning, Las X navigator, and 5 ultra-sensitive HyD detectors.
 
 * Mutiplex imaging with tunable White Light Laser (WLL) and tunable detectors. Choose any number of laser lines, any wavelengths to 790nm. We typically use up to **6 fluorescence channels** with potential for 8 or more.
 
@@ -24,7 +24,7 @@ permalink: /stellaris/
 
 * The NIH would like us to acknowledge grant **S10 OD032447** in all preprints and publications that utilize this instrument (PI: Hans-Willem Snoeck).
     Suggested phrasing:
-> _Research reported in this publication was supported in part by the Office of the Director, National Institutes of Health under award S10 OD032447_
+> _Research reported in this publication was supported by the Office of the Director, National Institutes of Health under award S10 OD032447_
 
 
 </div>

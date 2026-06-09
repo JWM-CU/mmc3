@@ -18,7 +18,7 @@ permalink: /dmi-1-2/
 
 * Four fluorescence channels DAPI, Alexa 488, Alexa 568, Alexa 647, or equivalent fluors, along with bright field.
 
-* Rapid stage scanning with Leica Navigator allows fast, mutiplex, high resolution tile scans of tissue on your slides.
+* Rapid stage scanning with Leica Navigator allows fast, multiplex, high resolution tile scans of tissue on your slides.
 
 * DMi station 1 has deconvolution options, post acquisition.  
 
@@ -27,7 +27,7 @@ permalink: /dmi-1-2/
   DMi 1 has low magnification options.
    
   - DMi 2: 10X, 20X, 20X long distance, 40X, 40X long distance, 100X oil 1.4 NA<br/>
-  DMi 2 has long distance (image thru culture dish) options.
+  DMi 2 has long distance (image through culture dish) options.
 
 </div>
 
