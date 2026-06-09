@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Rates - Columbia Medicine Microscopy Core (MMC)</title>
+  <meta name="description" content="NONE">
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="https://www.columbia-mmc.org/rates/">
+  <link rel="shortcut icon" type ="image/x-icon" href="https://www.columbia-mmc.org/favicon.ico?v=2">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+    <!-- ... other meta tags and links ... -->
+  <link rel="preconnect" href="https://player.vimeo.com">
+  <link rel="preconnect" href="https://i.vimeocdn.com">
+  <link rel="preconnect" href="https://f.vimeocdn.com">
+  
+
+<!-- Google Analytics (original) -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','');</script>
+<!-- End Google Tag Manager -->
+
+
+
+</head>
+
+
+  <body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="https://www.columbia-mmc.org/">
+     <img src="https://www.columbia-mmc.org/favicon.ico" width="30" height="30" style="margin-right:1px" class="d-inline-block align-top" alt="">
+      Columbia Medicine Microscopy Core (MMC)
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.columbia-mmc.org/">Home</a>
+          </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/about">About</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/stellaris">Stellaris</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/zeiss710">Zeiss710</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/lightsheet">Lightsheet</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/dmi-1-2">Dmi-1-2</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/live-imaging">Live-imaging</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/seahorse">Seahorse</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/rates">Rates</a>
+            </li> 
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.columbia-mmc.org/software-resources">Software-resources</a>
+            </li> 
+          
+        </ul>
+      </ul>
+    </div>
+    
+</nav>
+
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="gridid" class="col-sm-12 col-xs-12">
+  ## Rates
+
+<div class="jumbotron" style="font-size:20px;"> 
+
+| Instrument, Service | Hourly Rate |
+| -------- | -------- |
+| Zeiss LSM 710 Confocal Microscope | $47.25  |
+| Leica Stellaris 8 Confocal Microscope | $54.00 | 
+| Light Sheet Microscope (Leica SP8-DLS & Confocal) | $33.75 | 
+| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $36.45 | 
+| Training (All Instruments) | $80.00 | 
+
+
+
+<br/>
+<br/>
+
+
+| Off-Peak (M-F 7am-7pm, Sat and Sun) | Hourly Rate | 
+| -------- | -------- | -------- |
+| Zeiss LSM 710 Confocal Microscope | $35.44   | 
+| Leica Stellaris 8 Confocal Microscope | $40.50 | 
+| Light Sheet Microscope (Leica SP8-DLS & Confocal) | $25.31 | 
+| Leica Widefield Microscopes (Dmi8_1, DMi8_2) | $27.34 | 
+
+<br/>
+<div>
+
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 6px;
+  }
+
+  tr:nth-child(even) {
+  /*  background-color: #8b6e00; */
+    background-color: #FBB954; /* color of even bars */
+  }
+
+  th {
+    background-color: #333;
+    color: #FFA500; /* color of header bars text?  */
+  }
+</style>
+
+
+
+
+<!--
+<img src="https://www.columbia-mmc.org/images/MMC_828.jpg" width="100%"/><br/><br/>
+<img src="https://www.columbia-mmc.org/images/MMC_828.jpg" width="100%"/><br/>
+
+-->
+
+<!--
+
+<div class="jumbotron">
+<div class="row">
+<div class="col-sm-4">
+  <img src="https://www.columbia-mmc.org/images/imagej2_clear.png" width="100%" style="max-width:250px"/>
+</div>
+<div class="col-sm-8 col-xs-12">
+  <h3>Medicine Microscopy Core (MMC)</h3>
+  <h4><i>Director, John Murray, PhD</i></h4>
+  
+  
+  
+  
+  
+
+  <ul style="overflow: hidden">
+  
+  
+  
+  
+  
+  
+  </ul>
+  
+</div>
+</div>
+</div>
+
+
+
+<div class="jumbotron">
+### Grants
+<ul>
+
+ <li> Example Grant Here </li>
+
+ <li> Example Grant Here </li>
+
+</ul>
+</div>
+
+
+
+
+<div class="jumbotron">
+### Awards
+<ul>
+
+ <li> Example award here (2021) </li>
+
+ <li> Example award here (2020) </li>
+
+</ul>
+</div>
+
+
+
+<div class="jumbotron">
+### Students and mentoring
+<ul>
+
+ <li> Student Here, Univesity Here (Ph.D., 2022) </li>
+
+ <li> Student Here, Univesity Here (Ph.D., 2021) </li>
+
+ <li> Student Here, Univesity Here (Ph.D., 2020) </li>
+
+ <li> Student Here, Univesity Here (M.S., 2020) </li>
+
+ <li> Student Here, Univesity Here (B.S., 2020) </li>
+
+</ul>
+</div>
+
+
+
+
+
+<div class="jumbotron">
+  <h4>LINKS</h4>
+  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+ <a href="https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-8/" target="_blank"><img src='https://www.columbia-mmc.org/images/Leica-svg.png' style='max-height: 80px; max-width: 200px; margin: 1%'/></a><a href="https://www.nsf.gov/" target="_blank"><img src='https://www.columbia-mmc.org/images/NSF.png' style='max-height: 80px; max-width: 200px; margin: 1%'/></a><a href="https://www.energy.gov/" target="_blank"><img src='https://www.columbia-mmc.org/images/doe_logo.png' style='max-height: 80px; max-width: 200px; margin: 1%'/></a><a href="https://www.onr.navy.mil/" target="_blank"><img src='https://www.columbia-mmc.org/images/onr_logo.png' style='max-height: 80px; max-width: 200px; margin: 1%'/></a><a href="https://www.nih.gov/" target="_blank"><img src='https://www.columbia-mmc.org/images/NIH-logo.png' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>
+  </div>
+</div>
+-->
+</div>
+
+      </div>
+    </div>
+
+    <br/>
+<section id="footer">
+<div class="container-footer" style="padding-left: 10px;">
+  <div class="panel-footer">
+	  <div class="row">
+		<div class="col-sm-4" >
+		    <h4>Staff</h4>	
+            <p style="font-size: 0.9rem;"> John W Murray, PhD <br/> Imaging Facility Director <br/> Assistant Professor <br/> Columbia University <br/>  Department of Medicine <br/> Columbia Center for Human Development (CCHD) <br/> jwm2175©cumc•columbia•edu <br/> Office phone: 212•305•4130 <br/>
+</p>
+		</div>
+
+		<div class="col-sm-4">
+		    <h4>Coordinates</h4>	
+            <p style="font-size: 0.9rem;"> William Black Building<br/>  <a href="https://maps.app.goo.gl/ZrTUzCe3eAFwvyPf9" target="_blank">(google maps link)</a> <br/>  8th Floor, Room 828, 832, and VP&S 8-508B <br/> Office: room 801F <br/> 650 West 168th Street <br/> New York, NY 10032 <br/>
+</p>
+		</div>
+		
+		<div class="col-sm-4">
+		    <h4>Hours</h4>	
+            <p style="font-size: 0.9rem;"> Hours: 24/7 <br/> Staffed: M-F, 9am-5pm <br/>
+</p>
+		</div>
+	  
+		<center>
+			<div style="margin-bottom: 10px;"> <!-- Adds some space between the links and the copyright notice -->
+				
+					<a href="https://www.vagelos.columbia.edu/departments-centers/department-medicine" target="_blank">
+						<img class="no-shadow" src='https://www.columbia-mmc.org/images/columbia-dmed-long.png' style='max-height: 50px; max-width: 200px; margin: 0%'/>
+					</a>
+				
+					<a href="https://cchd.columbiamedicine.org/" target="_blank">
+						<img class="no-shadow" src='https://www.columbia-mmc.org/images/cchd-sz.png' style='max-height: 50px; max-width: 200px; margin: 0%'/>
+					</a>
+				
+					<a href="https://www.vagelos.columbia.edu/departments-centers/centers-and-institutes/columbia-center-stem-cell-therapies" target="_blank">
+						<img class="no-shadow" src='https://www.columbia-mmc.org/images/CSCT logo.jpg' style='max-height: 50px; max-width: 200px; margin: 0%'/>
+					</a>
+				
+			</div>
+			<p>&copy 2026 Columbia Medicine Microscopy Core (MMC)</p>
+		</center> 
+		
+
+      <!-- <center><p>&copy 2026 Columbia Medicine Microscopy Core (MMC) </p></center> -->
+	</div>
+  </div>
+</div>
+
+<script src="/assets/javascript/bootstrap/jquery.min.js"></script>
+<script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
+
+
+  </body>
+
+</html>
